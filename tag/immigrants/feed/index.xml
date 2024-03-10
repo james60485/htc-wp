@@ -10,10 +10,14 @@
 <channel>
 	<title>Immigrants &#8211; Hélène et Thomas Chassaing | Photographie</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<atom:link href="http://htc-wp.ddev.site/tag/immigrants/feed/?simply_static_page=465" rel="self" type="application/rss+xml" />
 	<link>https://htc-wp.github.io/</link>
 =======
 	<atom:link href="http://htc-wp.ddev.site/tag/immigrants/feed/?simply_static_page=775" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://htc-wp.ddev.site/tag/immigrants/feed/?simply_static_page=1085" rel="self" type="application/rss+xml" />
+>>>>>>> 960c85f (Changed Pages root url)
 	<link>https://james60485.github.io/</link>
 >>>>>>> 8fce897 (Changed github Page root url to james60485.github.io)
 	<description></description>
