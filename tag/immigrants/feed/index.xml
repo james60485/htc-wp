@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Immigrants &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/tag/immigrants/feed/?simply_static_page=13807" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/tag/immigrants/feed/?simply_static_page=14470" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
 	<lastBuildDate>Tue, 09 Apr 2024 00:09:52 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Post(e) de Radio</title>
 		<link>https://james60485.github.io/blog_id-57/</link>

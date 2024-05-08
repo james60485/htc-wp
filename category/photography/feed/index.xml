@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Photographie &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/category/photography/feed/?simply_static_page=13817" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/category/photography/feed/?simply_static_page=14480" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
 	<lastBuildDate>Tue, 09 Apr 2024 00:07:20 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Cahier de vacances</title>
 		<link>https://james60485.github.io/blog_id-55/</link>
