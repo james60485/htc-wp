@@ -9,10 +9,10 @@
 
 <channel>
 	<title>htc &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/author/htc/feed/?simply_static_page=15192" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/author/htc/feed/?simply_static_page=16044" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
-	<lastBuildDate>Tue, 09 Apr 2024 00:09:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 May 2024 14:36:33 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,236 +20,76 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
-		<title>Post(e) de Radio</title>
-		<link>https://james60485.github.io/blog_id-57/</link>
+		<title>Des vélos pour partir !</title>
+		<link>https://james60485.github.io/blog_id-79/</link>
 		
 		<dc:creator><![CDATA[htc]]></dc:creator>
-		<pubDate>Tue, 15 Aug 2023 00:32:30 +0000</pubDate>
-				<category><![CDATA[Climat]]></category>
-		<category><![CDATA[Immigrants]]></category>
-		<category><![CDATA[Sécheresse]]></category>
-		<guid isPermaLink="false">http://htc-wp.ddev.site:8080/?p=36</guid>
-
-					<description><![CDATA[Maintenance des éoliennes avec le sourire à Montdidier. Dans cette commune, quatre éoliennes produisent plus de la moitié de la consommation d&#8217;électricité. Créé il y a 12 ans, c&#8217;est le premier et le seul parc éolien public de France*. Montdidier. Somme, Hauts-de-France. France &#8211; 26 Mars 2013.*https://www.francetvinfo.fr/economie/energie/energie-une-ville-picarde-produit-sa-propre-electricite_5746505.html Bonjour, En illustration du post de cette quinzaine, ... <a title="Post(e) de Radio" class="read-more" href="https://james60485.github.io/blog_id-57/" aria-label="Read more about Post(e) de Radio">Lire la suite</a>]]></description>
-										<content:encoded><![CDATA[
-<p><em>Maintenance des éoliennes avec le sourire à Montdidier. Dans cette commune, quatre éoliennes produisent plus de la moitié de la consommation d&rsquo;électricité. Créé il y a 12 ans, c&rsquo;est le premier et le seul parc éolien public de France*. Montdidier. Somme, Hauts-de-France. France &#8211; 26 Mars 2013.</em><br>*https://www.francetvinfo.fr/economie/energie/energie-une-ville-picarde-produit-sa-propre-electricite_5746505.html</p>
-
-
-
-<p>Bonjour,</p>
-
-
-
-<p>En illustration du post de cette quinzaine, nous aurions pu vous mettre des images en lien avec <a href="https://www.francetvinfo.fr/faits-divers/incendie/incendie-de-forets-le-portugal-et-l-espagne-durement-touches_5996663.html" target="_blank" rel="noreferrer noopener">les incendies</a> qui sont à nouveau en train de ravager des forêts en Espagne (Estrémadure) et au Portugal (Algarve). L’an dernier, à peu près à la même époque, nous étions passés à vélo par ces régions et nous avions documenté la sécheresse extrême des lieux qui rendrait inévitablement tout incendie difficile à contrôler.</p>
-
-
-
-<p>Mais bon, vous êtes peut-être saturés de voir des images de feux et de catastrophes qui tournent en boucle sur les écrans. Alors, à ce sujet, on a préféré vous mettre <a href="https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins-d-ete/feux-de-foret-quand-la-faune-disparait-avec-joelle-zask-1151924" target="_blank" rel="noreferrer noopener">une interview</a> écoutée récemment à la radio, celle de la philosophe Joëlle Zask, sur les mégafeux. Le propos est sensible et réaliste.</p>
-
-
-
-<p>Le diptyque que nous vous présentons à la place est issu de notre travail sur les énergies en France que nous sommes en train de monter. De 2012 à 2018, nous avons parcouru l’hexagone avec en tête l’idée de faire des reportages sur l&rsquo;énergie ou l’agriculture notamment. Pour l’histoire de la photo, voici un extrait du journal de bord (tiré de la vingtaine de cahiers de brouillon) que nous avons tenu pendant ce périple :</p>
-
-
-
-<p>« <em>Mardi 26 mars 2013, Montdidier. Après un petit café avec mes hôtes je suis retourné voir les éoliennes de la veille. Une équipe du constructeur (Vesta) est chargée de la maintenance du parc cette semaine. Comme il m’a été impossible de monter avec eux pour les photographier, je leur ai passé mon appareil à photo pour qu’ils me prennent des photos d’en haut, du village, de leur boulot. « Faites comme vous voulez, soyez créatifs. » leur ai-je dit. Ils m’ont ramené 18 photos : surprises au développement ! A 16 heures 30 je me suis pointé à la mairie […]</em> »</p>
-
-
-
-<p>Mentionner la sécheresse, les incendies, les problématiques énergétiques ou agricoles nous fait penser à <a href="https://www.lemonde.fr/politique/article/2023/08/13/l-ecologie-ce-nouveau-clivage-politique-que-le-rassemblement-national-compte-exploiter_6185278_823448.html" target="_blank" rel="noreferrer noopener">un article</a> intéressant paru dans <em>Le Monde</em> sur la nouvelle stratégie électorale du RN (Rassemblement National) en terme d’écologie. Pour avoir vu comment cela se passe en Espagne avec le parti d’extrême droite Vox, cela promet une bonne mise en tension de la société française dans les mois qui viennent et bien entendu aucune avancée notoire sur ces sujets, pourtant primordiaux. À nos tubes de paracétamol donc !</p>
-
-
-
-<p>Sur le thème de prédilection de l’extrême droite, l’immigration, les nouvelles sont toujours dramatiques avec les derniers naufrages au large des côtes <a href="https://www.bfmtv.com/international/europe/nouveau-naufrage-de-migrants-en-mediterranee-41-disparus-dont-trois-enfants_AD-202308090587.html" target="_blank" rel="noreferrer noopener">de la Tunisie</a> ou <a href="https://www.lemonde.fr/societe/article/2023/08/13/naufrage-de-migrants-dans-la-manche-un-nouveau-drame-lie-aux-small-boats_6185305_3224.html" target="_blank" rel="noreferrer noopener">du Pas-de-Calais</a>. À la radio, un matin, nous avons suivi <a href="https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins-d-ete/naufrage-de-vincent-delecroix-tu-ne-seras-pas-sauve-8014167" target="_blank" rel="noreferrer noopener">l’interview</a> de Vincent Delecroix, philosophe et écrivain, qui va sortir son roman « Naufrage » inspiré du drame choquant vécu par un bateau de migrants dans la Manche en 2021.</p>
-
-
-
-<p>Durant le travail de mise en forme des images du tour de France, quand nous avons des tâches qui ne demandent pas trop de concentration (telles qu’enlever les poussières des scans ou assembler les diptyques), nous avons pu écouter à loisir les grilles d’été des radios. Les feuilletons musicaux de l&rsquo;écrivain François Bon sur Dylan, les Stones et Led Zeppelin étaient plaisants et nous avons bien apprécié les grandes traversées proposées aussi par France Culture, comme <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-jean-moulin-un-francais-libre" target="_blank" rel="noreferrer noopener">celle</a> sur Jean Moulin.</p>
-
-
-
-<p>On a aussi aimé suivre les itinéraires de Joseph Kessel, journaliste-écrivain et de Günther Anders, philosophe-moraliste, qui ont tous deux traversé le 20ème siècle (comme le racontent ces émissions <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-gt-joseph-kessel-sans-frontieres" target="_blank" rel="noreferrer noopener">ici</a> et <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-avoir-raison-avec-guenther-anders" target="_blank" rel="noreferrer noopener">là</a>). Bien qu’énormément de choses dans leur vie et dans leurs œuvres les séparent, peut-être qu’ils sont les deux faces d’une même pièce, celle de l’attention au monde.</p>
-
-
-
-<p>Côté préparatifs en vue de notre prochain départ pour la péninsule ibérique, on a repris l’entraînement vélo et la commande pour les sacoches a été passée hier. Il n’y avait plus de noir (classique) et l’orange (bien visible de loin) était aussi épuisé, il a fallu choisir d’autres couleurs. Dorénavant, nous aurons tous les deux des sacoches avant en plus de celles à l’arrière mais interdiction d’emporter plus de choses : il faudra répartir !</p>
-
-
-
-<p>Allez, on vous laisse avec le lien d’une radio musicale qu’on vient juste de découvrir et qui devrait vachement ambiancer notre fin du mois : La <a href="https://www.radiomeuh.com/" target="_blank" rel="noreferrer noopener">Radio Meuh</a>!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gazoline</title>
-		<link>https://james60485.github.io/blog_id-56/</link>
-		
-		<dc:creator><![CDATA[htc]]></dc:creator>
-		<pubDate>Mon, 31 Jul 2023 00:28:22 +0000</pubDate>
-				<category><![CDATA[Climat]]></category>
-		<category><![CDATA[Espagne]]></category>
-		<category><![CDATA[Immigrants]]></category>
-		<category><![CDATA[Politique]]></category>
-		<guid isPermaLink="false">http://htc-wp.ddev.site:8080/?p=32</guid>
-
-					<description><![CDATA[Rond-point à Lacq. Sur le derrick une plaque indique : « 1957 &#8211; 2007 &#8211; 50 ans de production &#8211; TOTAL E&#38;P FRANCE ». Pyrénées-Atlantiques, Nouvelle-Aquitaine. France &#8211; 2018. Hello les Loulous, L’été avance et avec lui le tri des images de notre tour de France à vélo (de 2012 à 2018) et les légendes ... <a title="Gazoline" class="read-more" href="https://james60485.github.io/blog_id-56/" aria-label="Read more about Gazoline">Lire la suite</a>]]></description>
-										<content:encoded><![CDATA[
-<p><em>Rond-point à Lacq. Sur le derrick une plaque indique : « 1957 &#8211; 2007 &#8211; 50 ans de production &#8211; TOTAL E&amp;P FRANCE ». Pyrénées-Atlantiques, Nouvelle-Aquitaine. France &#8211; 2018.</em></p>
-
-
-
-<p>Hello les Loulous,</p>
-
-
-
-<p>L’été avance et avec lui le tri des images de notre tour de France à vélo (de 2012 à 2018) et les légendes des photos ibériques. Les diptyques concernant les sujets sur les énergies solaires, éoliennes, géothermiques, pétrolières, gazières et de biomasse sont montés. Manque maintenant le gros du travail sur le nucléaire et puis aussi tout ce qui concerne l’agriculture. Normalement, cela sera pour 2024.</p>
-
-
-
-<p>Dans l’actualité de la quinzaine qui s&rsquo;achève, il y a eu les élections législatives en Espagne. Bien entendu, nous les avons suivies avec attention. À l’écoute des résultats nous est revenu une expression que nous avons beaucoup entendue lors des discussions que nous avons eues l’an dernier avec les gens du pays : « Aquí es complicado. » (Ici c&rsquo;est compliqué) !</p>
-
-
-
-<p>Voyons maintenant comment les choses vont tourner. Si de nouvelles élections sont convoquées avant la fin de l’année, nous essayerons de faire un petit travail à ce sujet lors de notre prochain nouveau séjour dans la péninsule.</p>
-
-
-
-<p><a href="https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-lundi-24-juillet-2023-9320210" target="_blank" rel="noreferrer noopener">Ici</a>, un lien qui rend compte des résultats des dernières élections en Espagne ainsi que de la situation des travailleurs sans papier en Floride. En vue des primaires, le gouverneur de Floride Ron DeSantis prend des mesures contre l’immigration clandestine qui mettent en danger l’économie de l’État, dans des secteurs comme le tourisme, l’agriculture et la construction. Sur <a href="https://www.h-t-chassaing.com/HTC_MG_03-fr.html" target="_blank" rel="noreferrer noopener">notre site</a> vous pouvez retrouver tous les reportages réalisés sur deux de ces thèmes en Floride et en Géorgie.</p>
-
-
-
-<p><a href="https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/l-espagne-peut-elle-sortir-de-l-impasse-institutionnelle-3341950" target="_blank" rel="noreferrer noopener">Là</a>, un débat de fond sur la situation politique espagnole après ce vote. Aujourd’hui 31 juillet, <a href="https://www.lemonde.fr/international/article/2023/07/31/elections-generales-en-espagne-le-parti-socialiste-perd-un-siege-apres-le-decompte-des-voix-de-l-etranger_6183977_3210.html" target="_blank" rel="noreferrer noopener">le décompte</a> des voix des électeurs de l’étranger, achevé le 29 juillet, fait perdre un siège au socialiste et complique encore plus les choses.</p>
-
-
-
-<p>En France aussi, en lien avec notre travail, il s’est passé des choses importantes qui ont attiré notre attention, comme <a href="https://www.la-croix.com/France/Policier-detention-Marseille-entre-police-justice-passes-darmes-regulieres-2023-07-25-1201276611" target="_blank" rel="noreferrer noopener">les nouvelles tensions</a> entre la Police et la Justice suite à des violences subies début juillet par un jeune homme à Marseille. <a href="https://www.lemonde.fr/les-decodeurs/article/2023/07/28/marseille-du-jeune-homme-grievement-blesse-aux-propos-de-darmanin-chronologie-de-la-crise-dans-la-police_6183346_4355771.html" target="_blank" rel="noreferrer noopener">Ici</a> une chronologie précise de cette dernière crise.</p>
-
-
-
-<p>Dans le monde, <a href="https://www.radiofrance.fr/franceinter/les-canicules-actuelles-quasi-impossibles-sans-le-rechauffement-climatique-confirme-une-etude-scientifique-4854986" target="_blank" rel="noreferrer noopener">l&rsquo;étude scientifique</a> du World Weather Attribution (WWA) « établit un lien direct entre les températures extrêmes enregistrées sur la planète ces dernières semaines et les émissions de gaz à effet de serre produites par l&rsquo;homme. » Ce qui en soit, si on est optimiste, est plutôt une bonne nouvelle car ne tient qu’à nous de…</p>
-
-
-
-<p>Dans le journal <em>Le Monde</em>, <a href="https://www.lemonde.fr/planete/article/2023/07/28/climat-pourquoi-le-bassin-mediterraneen-est-en-proie-a-la-fournaise-et-aux-incendies_6183716_3244.html" target="_blank" rel="noreferrer noopener">un article</a> revient sur les vagues de chaleur extrêmes qui touchent le bassin méditerranéen provoquant d’immenses incendies. Et il y a aussi un <a href="https://www.lemonde.fr/idees/article/2023/07/31/rechauffement-climatique-que-faut-il-de-plus-pour-agir_6183970_3232.html" target="_blank" rel="noreferrer noopener">un édito</a> sur la question intitulé « Réchauffement climatique : que faut-il de plus pour agir ? ».</p>
-
-
-
-<p>De notre côté, la disparition soudaine du « Chaman de Chamablanc » continue à nous secouer. Voici <a href="https://www.youtube.com/watch?v=Xb6twJ8qKfA" target="_blank" rel="noreferrer noopener">une version</a> en concert d&rsquo;un de ses morceaux auquel nous avons pensé quand il s’est agi de trouver un titre à ce post : « Noyé dans la gazoline &#8211; Qui nous a fait ça ».</p>
-
-
-
-<p>Tout récemment, durant le Tour de France, le peloton est passé devant chez lui, dans le Puy-de-Dôme. Des « Muratiens » avaient écrit son nom sur la route mais, petite déception, à la téloche, les commentateurs n’en ont fait aucune mention. Pourtant, si on le lançait, le Loulou ne manquait pas une occasion de parler de sa passion pour le cyclisme et la grande boucle.</p>
-
-
-
-<p>Comme devoir de vacances, cette fois-ci nous avons regardé de nouvelles vidéos d’<a href="https://eugenerichards.com/" target="_blank" rel="noreferrer noopener">Eugene Richards</a> comme <a href="https://www.youtube.com/watch?v=HEk4ZTsUXI4" target="_blank" rel="noreferrer noopener">celle-là</a>. C’est un immense photographe américain dont le travail et la personnalité nous impressionnent beaucoup. Dernièrement, il a lancé <a href="https://www.kickstarter.com/projects/eugenerichards/in-this-brief-life/posts/3859342?lang=fr" target="_blank" rel="noreferrer noopener">une campagne</a> d’aide au financement pour produire un nouveau livre intitulé : « In This Brief Life ».</p>
-
-
-
-<p>Lors des premiers voyages en Espagne (en 2007-2008), Toto dormait dans sa GS (Citroën de collection de 1973) en compagnie de deux ou trois livres photos dont « The Fat Baby » de Mr Richards.</p>
-
-
-
-<p>« Ça c’est rollin’ » !</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cahier de vacances</title>
-		<link>https://james60485.github.io/blog_id-55/</link>
-		
-		<dc:creator><![CDATA[htc]]></dc:creator>
-		<pubDate>Fri, 14 Jul 2023 00:20:38 +0000</pubDate>
-				<category><![CDATA[Photographie]]></category>
-		<category><![CDATA[Cyclisme]]></category>
-		<guid isPermaLink="false">http://htc-wp.ddev.site:8080/?p=27</guid>
-
-					<description><![CDATA[Des adolescents du coin jouent sur la plage Loon-Plage, à proximité du chantier du terminal méthanier en construction (commencé en 2011 et mis en service en 2017). Ces deux images font partie des reportages du tour de France à vélo que nous avons réalisé en ayant des thèmes comme : l’énergie et l&#8217;agriculture en France. ... <a title="Cahier de vacances" class="read-more" href="https://james60485.github.io/blog_id-55/" aria-label="Read more about Cahier de vacances">Lire la suite</a>]]></description>
-										<content:encoded><![CDATA[
-<p><em>Des adolescents du coin jouent sur la plage Loon-Plage, à proximité du chantier du terminal méthanier en construction (commencé en 2011 et mis en service en 2017). Ces deux images font partie des reportages du tour de France à vélo que nous avons réalisé en ayant des thèmes comme : l’énergie et l&rsquo;agriculture en France. Dunkerque, Hauts-de-France &#8211; 2012.</em></p>
-
-
-
-<p>Bonjour,</p>
-
-
-
-<p>À vrai dire, dans notre cas, il est difficile de séparer les congés du travail. Les gens qui nous connaissent de loin nous croient tous les jours en vacances et les plus proches nous voient comme des personnes qui courent toujours après le temps.</p>
-
-
-
-<p>Voyager à vélo et avec une tente pendant des mois pour faire des reportages non rémunérés : c’est plutôt des vacances ou un taf que personne ou presque n’accepterait de faire ? Passer des mois ensuite, derrière un ordinateur, à mettre en forme nos récoltes photographiques, un hobby ou une tâche assommante ?</p>
-
-
-
-<p>Nous, à la longue, on a tranché que c’était du boulot ; voilà pourquoi vous pouvez retrouver tous nos reportages dans la rubrique appelée « Travaux » (et non dans « Galeries, Images, Histoires, etc. ») sur ce site.</p>
-
-
-
-<p>Dans les quelques semaines qui nous séparent de notre prochain départ pour la péninsule ibérique, on doit :</p>
-
-
-
-<p>&#8211; Terminer toutes les légendes et les textes de notre périple de l’an dernier.</p>
-
-
-
-<p>&#8211; Continuer d’avancer dans le montage des reportages du tour de France (au final il devrait y en avoir une trentaine au lieu des six que vous trouvez présentement sur le site).</p>
-
-
-
-<p>&#8211; Démarrer notre jardin d’hiver. Dernièrement, on a ramené du marché 150 plants de poireaux, une vingtaine de choux de toutes sortes et du céleri-branche. Ajouté à toutes les courges que l’on a semées, cela devrait nous permettre de faire de bonnes économies. Peut-être même de quoi rembourser les 8 sacoches vélo que l’on doit acheter avant de partir ; les nôtres n’étant plus du tout présentables, voire dangereuses si on considère leur état et leur proximité avec les rayons de la roue. Mais alors, il va falloir pousser la brouette, manier la faux, la fourche, la houe et la bêche !</p>
-
-
-
-<p>Durant nos heures studieuses au bureau, triant les photos ou faisant la chromie des images, on a pu écouter entre autres :</p>
-
-
-
-<p>&#8211; <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-avoir-raison-avec-rene-dumont" target="_blank" rel="noreferrer noopener">Un podcast</a> sur René Dumont, le premier candidat écologiste à l&rsquo;élection présidentielle de 1974 en France. Témoin et acteur du 20e siècle, il est intéressant de revenir sur le travail et les engagements de l&rsquo;illustre agronome dans son pays et dans le monde.</p>
-
-
-
-<p>&#8211; Des conférences universitaires comme <a href="https://www.youtube.com/watch?v=eYZW0MvgXVg" target="_blank" rel="noreferrer noopener">celle-ci</a> de Fabien Jobard (que nous avons déjà mentionné sur ce blog) et <a href="https://www.youtube.com/watch?v=C5fMGkLOSmg" target="_blank" rel="noreferrer noopener">celle-là</a> de Christophe Bonneuil (directeur de recherche au CNRS en histoire environnementale et histoire des sciences et des techniques et enseigne à l&rsquo;EHESS -l&rsquo;École des hautes études en sciences sociales-). À notre avis, les contributions argumentées des chercheurs devraient être beaucoup plus considérées qu’elles ne le sont. Collectivement, ça ne nous ferait pas de mal.</p>
-
-
-
-<p>&#8211; <a href="https://www.france.tv/france-5/c-dans-l-air/5026153-emission-du-jeudi-6-juillet-2023.html" target="_blank" rel="noreferrer noopener">Une émission</a> de télévision de grande écoute intitulée « « Super El Niño » : l&rsquo;alerte de l&rsquo;ONU » nous a semblé utile pour faire avancer le débat et les choses.</p>
-
-
-
-<p>&#8211; Pour terminer, <a href="https://www.slate.fr/story/250306/milan-kundera-testament-romanesque-insignifiance-existence-roman" target="_blank" rel="noreferrer noopener">un texte</a> de Christian Salmon à propos de la mort de Milan Kundera à Paris, le 11 juillet 2023. <em>France Culture</em> à remis en avant <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-milan-kundera" target="_blank" rel="noreferrer noopener">une série</a> d’émissions consacrées à l’écrivain. Nous allons les écouter prochainement : à mettre en haut de la liste de nos devoirs de vacances ! Relire certains de ses livres ou découvrir les autres pourrait être une judicieuse idée pour accompagner le tour d’Europe que nous avons projeté.</p>
-
-
-
-<p>Bien à vous !</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>V&#8217;là l&#8217;été !</title>
-		<link>https://james60485.github.io/blog_id-54/</link>
-		
-		<dc:creator><![CDATA[htc]]></dc:creator>
-		<pubDate>Fri, 23 Jun 2023 00:12:43 +0000</pubDate>
+		<pubDate>Wed, 15 May 2024 14:34:19 +0000</pubDate>
 				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[Immigrants]]></category>
-		<category><![CDATA[Politique]]></category>
-		<guid isPermaLink="false">http://htc-wp.ddev.site:8080/?p=22</guid>
+		<category><![CDATA[Cyclisme]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4807</guid>
 
-					<description><![CDATA[Cascade avec touristes près de l’Ermitage de Peralejos de las Truchas. Province de Guadalajara, Castilla-La-Mancha. Espagne &#8211; 4 Août 2022. Baigneur près du Salto de Poveda, une cascade sur le Fleuve Tage. En contrebas de la Laguna de Taravilla. Parc naturel du Haut-Tage. Province de Guadalajara, Castilla-La-Mancha. Espagne &#8211; 5 Août 2022. Bonjour, Avec l&#8217;été, ... <a title="V&#8217;là l&#8217;été !" class="read-more" href="https://james60485.github.io/blog_id-54/" aria-label="Read more about V&#8217;là l&#8217;été !">Lire la suite</a>]]></description>
+					<description><![CDATA[&#8211; Dans le magasin de vélos cubain « Bikes to go », Thomas assiste au montage et à l’équipement du vélo d’Hélène. Miami, Floride. USA &#8211; 2000.&#8211; L’équipe du magasin de cycles cubain « Bikes to go » pose avec nous et les vélos tout neufs qu’elle vient de nous monter et nous équiper. Miami, Floride. USA &#8211; 2000. ... <a title="Des vélos pour partir !" class="read-more" href="https://james60485.github.io/blog_id-79/" aria-label="Read more about Des vélos pour partir !">Lire la suite</a>]]></description>
 										<content:encoded><![CDATA[
-<p><em>Cascade avec touristes près de l’Ermitage de Peralejos de las Truchas. Province de Guadalajara, Castilla-La-Mancha. Espagne &#8211; 4 Août 2022.</em></p>
+<p><em>&#8211; Dans le magasin de vélos cubain « Bikes to go », Thomas assiste au montage et à l’équipement du vélo d’Hélène. Miami, Floride. USA &#8211; 2000.<br>&#8211; L’équipe du magasin de cycles cubain « Bikes to go » pose avec nous et les vélos tout neufs qu’elle vient de nous monter et nous équiper. Miami, Floride. USA &#8211; 2000.</em></p>
 
 
 
-<p><em>Baigneur près du Salto de Poveda, une cascade sur le Fleuve Tage. En contrebas de la Laguna de Taravilla. Parc naturel du Haut-Tage. Province de Guadalajara, Castilla-La-Mancha. Espagne &#8211; 5 Août 2022.</em></p>
+<p><em>Presque dix ans plus tard, Thomas est repassé à Miami réaliser les reportages que vous trouverez sur ce site (<a href="https://www.h-t-chassaing.com/HTC_MG_03-fr.html" target="_blank" rel="noreferrer noopener">Agriculture et la crise économique vues de la Floride</a>). Au magasin, ils se rappelaient très bien de nous et des photos que nous avions faites et ont tenu à faire la révision de son vélo.</em></p>
+
+
+
+<p>Hello, hello,</p>
+
+
+
+<p>Comme l’indiquent les photos du diptyque, prises il y a plus de 20 ans en Floride (cf post précédent), nous sommes sur le départ.</p>
+
+
+
+<p>Dans 3 ou 4 jours, on va s’élancer. Avant d’embarquer sur un ferry à Calais, nous aurons un bon millier de kilomètres à parcourir sur les routes de France.</p>
+
+
+
+<p>On va emprunter <a href="https://fr.wikipedia.org/wiki/Diagonale_du_vide" target="_blank" rel="noreferrer noopener">la diagonale du vide</a>, euh pardon… la diagonale «&nbsp;des faibles densités&nbsp;», afin d’attaquer un nouveau reportage à long terme qu’on a en tête depuis un moment.</p>
+
+
+
+<p>Bien que assez rodés maintenant, les préparatifs pour partir quelques mois ne sont pas de tout repos : les papiers à mettre en ordre, du rangement et du nettoyage, réparer notre matériel de camping, le jardin (on aimerait bien avoir des légumes à notre retour), les visites médicales, les au revoir à la famille et aux amis, etc.</p>
+
+
+
+<p>Ces derniers temps, on s’est tapé des recherches concernant ce que nous allons documenter au Royaume-Uni et en Irlande mais sans plus. Il est toujours plus agréable de laisser le voyage s’inventer au fur et à mesure.</p>
+
+
+
+<p>Tout cela s’est fait relativement dans le calme cette fois-ci. Souvent, nous avons joué le <a href="https://www.youtube.com/watch?v=a_-qss_2dCg&amp;list=OLAK5uy_n2riIZk2FX_JMMiV1gHg6dPcNHYzgbgTc&amp;index=6" target="_blank" rel="noreferrer noopener">nouveau disque</a> du musicien de Liverpool, <a href="https://johncanningyates.com/" target="_blank" rel="noreferrer noopener">John Canning Yates</a> : parfait pour rester focus et détendu.</p>
+
+
+
+<p>Une bonne quinzaine à vous !</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Voyage, voyage !</title>
+		<link>https://james60485.github.io/blog_id-78/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 14:26:38 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Cyclisme]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4804</guid>
+
+					<description><![CDATA[&#8211; Hélène parmi les lacs de montagne, lors de la lente ascension nous menant de Tabay au Pico Bolivar qui culmine à 4 978 m d’altitude. Non loin de Mérida. État de Mérida. Venezuela &#8211; 1999.&#8211; Départ de Miami, la Miss le premier jour de voyage à vélo. Elle attend que le pont mobile redescende ... <a title="Voyage, voyage !" class="read-more" href="https://james60485.github.io/blog_id-78/" aria-label="Read more about Voyage, voyage !">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>&#8211; Hélène parmi les lacs de montagne, lors de la lente ascension nous menant de Tabay au Pico Bolivar qui culmine à 4 978 m d’altitude. Non loin de Mérida. État de Mérida. Venezuela &#8211; 1999.<br>&#8211; Départ de Miami, la Miss le premier jour de voyage à vélo. Elle attend que le pont mobile redescende à l’horizontale pour continuer à avancer. Miami, Floride. USA &#8211; 2000.</em></p>
 
 
 
@@ -257,59 +97,754 @@
 
 
 
-<p>Avec l&rsquo;été, il se peut qu’avant notre futur départ pour la péninsule ibérique (toujours prévu mi-août), on soit un peu moins bavards sur ce blog. La fin de l’écriture des légendes des reportages de l’année dernière, en Espagne et au Portugal, nous suffira. Après tout, on n’est pas des écrivains, nous, hein !</p>
+<p>Il y a quinze jours, dans ce blog, nous vous avions raconté à gros traits nos débuts dans la pratique photographique. Aujourd’hui, pour ceux qui ne connaissent pas l’histoire, nous allons vous conter nos premiers tours de pédales en tant que voyageurs à vélo.</p>
 
 
 
-<p>Voici tout de même une petite revue de presse sur des sujets qui touchent directement ou indirectement notre travail :</p>
+<p>Là aussi, il faut remonter à la fin du siècle précédent : nous étions allés au Venezuela rendre visite à Thierry, un grand ami belge de la Miss qui travaillait là-bas. Pendant 3 mois environ, nous avons sillonné ce pays d’Amérique latine.</p>
 
 
 
-<p>• <a href="https://www.lemonde.fr/societe/article/2023/06/22/un-rapport-au-vitriol-sur-les-centres-de-retention-administrative_6178673_3224.html" target="_blank" rel="noreferrer noopener">La situation</a> continue de se dégrader dans les CRA (Centre de Rétention Administrative). Un rapport dénonce des conditions de rétention « gravement attentatoires à la dignité et aux droits fondamentaux ».</p>
+<p>Parmi les sommets de ce voyage, en dehors des bons moments passés avec nos amis et nos rencontres, il y a deux ascensions : La Travesia jusqu&rsquo;au <a href="https://fr.wikipedia.org/wiki/Pico_Bol%C3%ADvar" target="_blank" rel="noreferrer noopener">Pico Bolivar</a>, dans le prolongement de la cordillère des Andes et puis celle -évidemment- du <a href="https://fr.wikipedia.org/wiki/Mont_Roraima" target="_blank" rel="noreferrer noopener">Mont Roraima</a>, un tepuy magique à la frontière avec le Brésil et le Guyana. Ces deux expéditions nous avaient demandé à chaque fois une semaine de marche complète en totale autonomie de nourriture.</p>
 
 
 
-<p>• <a href="https://www.letemps.ch/monde/le-probleme-des-tirs-mortels-lors-de-refus-d-obtemperer-est-systemique-en-france?utm_medium=partage-social&amp;utm_source=twitter" target="_blank" rel="noreferrer noopener">L&rsquo;analyse</a> de Sebastian Roché (politologue, spécialiste des questions de police) suite à la mort du jeune Nahel tué par un policier lors d’un contrôle routier le 27 juin ; un drame qui embrase le pays avec des scènes de violences urbaines et de pillages.</p>
+<p>Par contre, il nous fut pénible de dépendre de bus et occasionnellement de taxis pour nos déplacements. Passer des nuits à attendre des correspondances dans des gares routières ou ne pas pouvoir s’arrêter quand nous le souhaitions a fini par nous saouler.</p>
 
 
 
-<p><a href="https://www.francetvinfo.fr/faits-divers/police/video-tirs-de-policiers-lors-d-un-controle-a-paris-selon-un-chercheur-une-loi-est-venue-mettre-de-la-confusion-dans-des-textes-tres-clairs-sur-la-legitime-defense_5182897.html" target="_blank" rel="noreferrer noopener">Une interview</a> de Fabien Jobard (directeur de recherche au CNRS &#8211; Centre national de la recherche scientifique) après la mort le 4 juin d’une jeune femme, passagère d&rsquo;un véhicule qui refusait d&rsquo;obtempérer lors d&rsquo;un contrôle de police, et qui avait là aussi été abattue. Comme Sebastian Roché, il parle de la loi du 28 février 2017 qui « est venue mettre de la confusion dans des textes très clairs » sur la légitime défense.</p>
+<p>Près d’un lac dans la région de los Llanos où nous étions en rade, on s’est dit que ça suffisait les galères avec les autocars (qui par ailleurs nous revenaient cher à la longue). Nous allions suivre l’exemple de notre mentor Thierry.</p>
 
 
 
-<p><a href="https://www.nouvelobs.com/opinions/20230630.OBS75178/nuisible-on-ne-saurait-mieux-demontrer-qu-il-y-a-un-probleme-systemique-dans-la-police.html" target="_blank" rel="noreferrer noopener">Une chronique</a> de Pascal Riché (journaliste) qui réagit au communiqué des syndicats Alliance et Unsa-Police.</p>
+<p>Avant de s’installer à Mérida pour un temps (au nord du Venezuela), il avait parcouru à bicyclette le continent américain, de l’Alaska à la Terre de Feu. On ne pouvait rêver meilleur coach.</p>
 
 
 
-<p>• <a href="https://www.francetvinfo.fr/replay-radio/entre-les-lignes/chronique-soulevement-de-la-terre-vers-une-criminalisation-des-luttes-politiques_5880608.html" target="_blank" rel="noreferrer noopener">L’analyse</a> de Clément Viktorovitch (politologue et sémiologue) sur la dissolution des Soulèvements de la Terre, qui pose la question d&rsquo;une « criminalisation des luttes écologistes ».</p>
+<p>D’abord, il nous a déconseillé d’acheter des vélos ici. À cette époque, nous n’aurions pas trouvé, même à Caracas ou alors à des prix exorbitants (car ils étaient importés des USA).</p>
 
 
 
-<p>• <a href="https://www.lemonde.fr/planete/article/2023/06/28/le-haut-conseil-pour-le-climat-appelle-la-france-a-acter-l-urgence-et-a-accelerer-une-action-insuffisante_6179680_3244.html" target="_blank" rel="noreferrer noopener">L’appel</a> du Haut Conseil pour le climat.</p>
+<p>Mieux valait prendre un avion pas cher pour Miami, y acheter les vélos et puis revenir avec chercher « de nouvelles instructions ». La Floride ayant l’avantage d’être plate, rien de mieux pour commencer avant de rouler vers le Mexique.</p>
 
 
 
-<p>Pour terminer, vous pouvez <a href="https://www.magnumphotos.com/theory-and-practice/trent-parke-monument-book/" target="_blank" rel="noreferrer noopener">lire la publication</a> qu’a faite l’agence photo Magnum sur son site pour la sortie du dernier livre de l’Australien Trent Parke : <em>Monument to Life</em>.</p>
+<p>Nous avons donc vendu nos sacs à dos pour financer le saut au dessus de la Mer des Caraïbes. C’est ainsi que nous avons acheté nos montures dans un magasin de cycles cubain : le bien nommé «&nbsp;Bikes to Go&nbsp;». Voilà, nous étions fin prêts pour entamer notre carrière de cyclistes !</p>
 
 
 
-<p>Bien que notre travail soit sur bien des aspects aux antipodes du sien, nous avons toujours été intéressés par ce photographe très discret. L’exposition « <a href="https://www.youtube.com/watch?v=PxKygyK9vgM" target="_blank" rel="noreferrer noopener">Minutes to Midnight</a> » que nous avions vue, il y a bien 15 ans maintenant à la Galerie du Château d’eau à Toulouse, ne nous avait pas déçus, bien au contraire. Ces derniers temps, on a remarqué que des photographes semblent s’inspirer de lui (du moins en France) mais, à notre humble avis, sa démarche reste unique.</p>
+<p>Au départ, on était très stressés quant au spot à trouver le soir pour notre tente (d’autant plus que nous traversions des zones d’habitation très riches comme Palm Beach par exemple). Et puis rapidement on s’est détendus, constatant qu’une phrase du coach se vérifiait toujours : «&nbsp;Ne vous inquiétez pas. La bonne personne existe, il vous suffit de la trouver.&nbsp;»</p>
 
 
 
-<p>Un bon été à vous !</p>
+<p>À Daytona Beach, nous sommes entrés en ville en même temps que des milliers de motards, venus là pour la célèbre Daytona Beach Bike Week. Aux feux rouges, c’était amusant de remarquer les regards en coin des bikers (souvent en Harley Davidson) sur nos toutes nouvelles cyclo-acquisitions.</p>
 
 
 
-<p>H&amp;T</p>
+<p>Malheureusement, après avoir parcouru nos premiers mille kilomètres, nous avons été contraints de nous arrêter à Tallahassee (capitale de la Floride). Un décès dans la famille nous ramena au pays.</p>
 
 
 
-<p>PS &#8211; 1 : Nous ajoutons à la petite revue de presse <a href="https://www.radiofrance.fr/franceculture/podcasts/l-esprit-public/comment-emmanuel-macron-peut-il-renouer-le-dialogue-social-1889508" target="_blank" rel="noreferrer noopener">une émission</a> de radio datée du 2 juillet qui permet à différentes sensibilités de s’exprimer sur la mort de Nahel M. et sur ce qui s’ensuit dans le pays.</p>
+<p>Par la suite, il fut un temps question de revenir là où nous nous étions arrêtés et puis finalement, en 2001, nous sommes repartis de la maison en mettant le cap vers l’Inde.</p>
 
 
 
-<p>PS &#8211; 2 : Une autre <a href="https://www.radiofrance.fr/franceculture/podcasts/l-invite-e-des-matins-d-ete/emeutes-de-nanterre-l-impuissance-politique-6658864" target="_blank" rel="noreferrer noopener">émission</a> avec les interventions de deux maires et d’un sociologue, qui éclaire sur les événements de ces derniers jours en France.</p>
+<p>Dans deux semaines, on compte reprendre la route (avec un des deux vélos achetés alors à Miami !). Cap au nord cette fois, pour le Royaume-Uni. Ce sera la deuxième étape du tour d’Europe que l’on ambitionne de faire.</p>
+
+
+
+<p>Toutes les photos de la première étape dans la péninsule ibérique sont désormais triées et légendées. Après notre retour, vers le mois de novembre, vous les découvrirez avec le nouveau site, actuellement en préparation avec l’ami Jim.</p>
+
+
+
+<p>De nos jours, il existe de nombreux récits de cyclistes qui ont fait le tour du monde. Même si nous n’en avons lu qu’un, nous n’avons pas peur d’affirmer que nous avons lu le meilleur chez Thierry au Venezuela !</p>
+
+
+
+<p>C’est celui des Hervé : Claude et Françoise partis dans les années 80 pour un voyage de trois ans, qui dura 14 années au final. Au bout de 7, ils ont eu une petite fille et ont continué leur périple avec elle.</p>
+
+
+
+<p>Nous venons de commander leur livre car on sera contents de le relire. Son titre : «&nbsp;Le Tour du Monde à Vélo&nbsp;».</p>
+
+
+
+<p>Bonne quinzaine à vous !</p>
+
+
+
+<p>Hélène et Thomas</p>
+
+
+
+<p>PS : À la radio, on a écouté récemment 4 émissions sur le voyage à travers la littérature, de Homère à Jean-Paul Sartre.</p>
+
+
+
+<p>&#8211; <a href="https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/ulysse-a-t-il-fait-un-beau-voyage-7379466" target="_blank" rel="noreferrer noopener">Ulysse a-t-il fait un beau voyage&nbsp;?</a><br>&#8211; <a href="https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/baudelaire-segalen-michaux-les-voyages-interieurs-5803890" target="_blank" rel="noreferrer noopener">Baudelaire, Segalen, Michaux&nbsp;: les voyages intérieurs</a><br>&#8211; <a href="https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/exotisme-orientalisme-poncifs-et-condescendance-7829179" target="_blank" rel="noreferrer noopener">Exotisme, orientalisme, poncifs et condescendance</a><br>&#8211; <a href="https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/voyager-sans-rien-voir-1708415" target="_blank" rel="noreferrer noopener">Voyager sans rien voir</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Des photographes du Royaume-Uni</title>
+		<link>https://james60485.github.io/blog_id-77/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2024 14:18:02 +0000</pubDate>
+				<category><![CDATA[Royaume-Uni]]></category>
+		<category><![CDATA[Photographie]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4801</guid>
+
+					<description><![CDATA[Photos prises dans les rues de Glasgow. Nous étions là-bas pour documenter la COP 26. Ce sont les deux seules images en extérieur que nous avons prises qui ne sont pas reliées directement à cet événement pour la sauvegarde du climat.&#8211; Entrée d’un mariage dans une église.&#8211; En début de matinée, ce monsieur fête son ... <a title="Des photographes du Royaume-Uni" class="read-more" href="https://james60485.github.io/blog_id-77/" aria-label="Read more about Des photographes du Royaume-Uni">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Photos prises dans les rues de Glasgow. Nous étions là-bas pour documenter la COP 26. Ce sont les deux seules images en extérieur que nous avons prises qui ne sont pas reliées directement à cet événement pour la sauvegarde du climat.<br>&#8211; Entrée d’un mariage dans une église.<br>&#8211; En début de matinée, ce monsieur fête son anniversaire au téléphone.<br>Glasgow, Écosse. Royaume-Uni &#8211; Octobre-Novembre 2021.</em></p>
+
+
+
+<p>Hello,</p>
+
+
+
+<p>Les deux premiers Britanniques que nous avons trouvés sur notre route photographique furent <a href="https://www.martinparr.com/" target="_blank" rel="noreferrer noopener">Martin Parr</a> et <a href="https://www.donovanwylie.studio/" target="_blank" rel="noreferrer noopener">Donovan Wylie</a>. C’était au millénaire dernier, au détour d’une énième insomnie cafardeuse. Nous étions tombés par hasard sur une rediffusion télé d’<a href="https://www.youtube.com/watch?v=AOHmvL5KeXw" target="_blank" rel="noreferrer noopener">un documentaire</a> passionnant à propos de Magnum, la célèbre agence de presse photographique (inconnue de nous à ce moment-là).</p>
+
+
+
+<p>C’est de là, on pense, qu’est né notre réel intérêt pour la pratique. En voyant, parmi d’autres photographes de l’agence, les « gentlemen » Parr et Wylie sur le terrain on s’était dit : «&nbsp;Ben ça, on pourrait peut-être le faire. Pas besoin de moyens délirants comme pour le cinéma.&nbsp;» Sans vouloir paraître trop prétentieux ni grandiloquents, ce fut comme un déclic dans la nuit de nos âmes de jeunes gens bien déprimés.</p>
+
+
+
+<p>Au retour de notre voyage à vélo jusqu’en Inde, périple initiatique qui avait vu Toto s’essayer à la photographie, nous avons consulté beaucoup de livres photo, que ce soit à la médiathèque de notre ville ou à la galerie toulousaine du Château d’Eau.</p>
+
+
+
+<p>C’est ainsi que nous avons découvert les travaux de grands photographes anglais tels que <a href="https://donmccullin.com/don-mccullin/" target="_blank" rel="noreferrer noopener">Don McCullin</a>, <a href="https://www.icp.org/browse/archive/constituents/larry-burrows?all/all/all/all/0" target="_blank" rel="noreferrer noopener">Larry Burrows</a> ou <a href="https://philipjonesgriffiths.org/photography/selected-work/vietnam-inc/" target="_blank" rel="noreferrer noopener">Philip Jones Griffith</a>.</p>
+
+
+
+<p>À peu près à cette même période, nous nous sommes rendus chaque année au <em>Festival Visa pour l’image</em> de Perpignan. Là, nous avons vu les expositions de l’Anglo-Australien <a href="http://www.philipblenkinsop.com/#/" target="_blank" rel="noreferrer noopener">Philip Blenkinsop</a>. C’était une période faste pour lui, sa vision de l’Asie rencontrait la reconnaissance bien méritée du public et des professionnels du métier. Depuis, à part enseigner, il semble s’être mis en retrait et, comme Don McCullin après des reportages très durs, se tourner vers la photographie de paysage.</p>
+
+
+
+<p>Si nous sommes allés à plusieurs reprises à <em>Visa</em>, nous n’avons été qu’une seule fois aux <em>Rencontres de la photographie d&rsquo;Arles</em>. On ne se souvient pas y avoir admiré le travail d’un photographe anglais, mais nous avions pu écouter en conférence l’admirable philosophe français Bernard Stiegler (qui malheureusement nous a quittés). Et puis Toto avait pu soumettre ses photos à Niall O’Leary de l’agence londonienne <a href="https://www.milim.com/" target="_blank" rel="noreferrer noopener">Millenium</a>. Voici <a href="https://library.milim.com/result/?keyWords=thomas+chassaing" target="_blank" rel="noreferrer noopener">les photos</a> que ce dernier avait choisies.</p>
+
+
+
+<p>C’était une des premières fois que nous faisions cela (parmi notre douzaine de tentatives de présentation de portfolios) et, à notre grande surprise, notre interlocuteur proposa de nous envoyer un contrat ! Pas besoin de savoir qui, quoi, ou qu’est-ce. Et pas de l&rsquo;habituel : « Vos photos sont bien, mais… ».</p>
+
+
+
+<p>Voici des images de l’agence Millenium que nous avons remarquées dernièrement : celles de <a href="https://www.milim.com/inspiration/sellafield-by-simon-roberts/" target="_blank" rel="noreferrer noopener">Simon Roberts</a>, <a href="https://www.milim.com/inspiration/alex-currie/" target="_blank" rel="noreferrer noopener">Alex Currie</a> et <a href="https://prints.milim.com/collections/chanel-irvine" target="_blank" rel="noreferrer noopener">Chanel Irvine</a>.</p>
+
+
+
+<p>Une autre agence anglaise de valeur est <a href="https://www.panos.co.uk/" target="_blank" rel="noreferrer noopener">Panos Pictures</a>. Elle propose des reportages comme nous pouvons en faire.</p>
+
+
+
+<p>Maintenant on suit de loin en loin, faute de temps, l’activité photographique outre-Manche. On surveille toutefois assez souvent si <a href="https://www.markpower.co.uk/" target="_blank" rel="noreferrer noopener">Mark Power</a> n’a pas ajouté une nouvelle série à son site. Ce dernier nous a d’ailleurs servi de modèle quand il s’est agi avec l’ami Jim de reconstruire le nôtre durant la pandémie de Covid-19. Parmi les membres anglais en activité de la coopérative photo Magnum, on avoue avoir un petit faible pour lui.</p>
+
+
+
+<p>Pour ce qui est des autres Britanniques que l’on suit ou que l’on a suivis (comme <a href="https://www.simonnorfolk.com/" target="_blank" rel="noreferrer noopener">Simon Norfolk</a> et <a href="https://www.andrewtesta.co.uk/" target="_blank" rel="noreferrer noopener">Andrew Testa</a> qui est de l’agence Panos citée plus haut, ou encore <a href="http://www.peterdench.com/" target="_blank" rel="noreferrer noopener">Peter Dench</a> et <a href="https://www.tobysmith.com/" target="_blank" rel="noreferrer noopener">Toby Smith</a> de l’agence Getty Reportage), il y a bien sûr <a href="https://www.johndavies.uk.com/" target="_blank" rel="noreferrer noopener">John Davies</a>. Son travail sur les paysages urbains et ruraux nous paraît d’une grande qualité.</p>
+
+
+
+<p>Enfin, ces derniers temps, grâce au concours de Martin Parr (encore lui), nous a été révélé la très belle œuvre de <a href="https://www.martinparrfoundation.org/collection/chris-killip-archive/" target="_blank" rel="noreferrer noopener">Chris Killip</a>.</p>
+
+
+
+<p>Pour conclure, nous dirons que la Grande-Bretagne, à l’instar de la France, possède une grande histoire avec la photographie. Inutile de préciser que c’est dans ces deux pays qu’est né ce médium, dans la première moitié du XIXe siècle.</p>
+
+
+
+<p>Espérons que durant notre futur voyage là-bas, les cyclistes photographes que nous sommes trouveront un bon accueil pour notre tente et que les gens nous permettront de faire des photos assez facilement.</p>
+
+
+
+<p>Sur ce dernier point, nous sommes plutôt confiants. Lors de notre reportage à la COP 26 de Glasgow, pratiquement personne ne nous a posé de problèmes quand nous photographiions, pas comme en France ou dans d’autres pays que nous avons parcourus.</p>
+
+
+
+<p>Bonne quinzaine à vous,</p>
+
+
+
+<p>Hélène et Thomas</p>
+
+
+
+<p>PS : À la relecture de ce post on s&rsquo;est rendu compte que, à une exception près, il n&rsquo;y avait pas de femmes photographes dans cette liste. Si vous avez des idées pour la compléter, Merci bien de nous les transmettre. On sera contents de découvrir d&rsquo;autres travaux en vue de notre prochain périple.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Post de fainéants (ou presque) #1</title>
+		<link>https://james60485.github.io/blog_id-76/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Sun, 31 Mar 2024 21:18:22 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4798</guid>
+
+					<description><![CDATA[Des pèlerins sud-coréens et espagnols sur le Chemin de Saint-Jacques-de-Compostelle. Castille-et-León. Espagne &#8211; Décembre 2023. Bonjour, C’est le week-end de Pâques, on va continuer à se la jouer cool ! Avant-hier, nous avons été voir l’expo d’une amie, demain il y a la famille. Comme ces derniers temps, on a eu notre compte question écriture, ... <a title="Post de fainéants (ou presque) #1" class="read-more" href="https://james60485.github.io/blog_id-76/" aria-label="Read more about Post de fainéants (ou presque) #1">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Des pèlerins sud-coréens et espagnols sur le Chemin de Saint-Jacques-de-Compostelle. Castille-et-León. Espagne &#8211; Décembre 2023.</em></p>
+
+
+
+<p>Bonjour,</p>
+
+
+
+<p>C’est le week-end de Pâques, on va continuer à se la jouer cool ! Avant-hier, nous avons été voir l’expo d’une amie, demain il y a la famille.</p>
+
+
+
+<p>Comme ces derniers temps, on a eu notre compte question écriture, on ne va pas faire trop de zèle pour le post d&rsquo;aujourd’hui. Légender 600 images de façon assez précise, ce n’est pas du gâteau. Bien sûr, rien à voir avec nos pèlerins de Santiago « en Santiags ». Nous ne finissons pas le soir dans des dortoirs avec des ampoules aux pieds, mais quand-même !</p>
+
+
+
+<p>Quand tu as tous les jours un quota costaud de légendes à rédiger qui nécessite parfois des recherches assez poussées, passé 3 ou 4 jours d’affilée à un bon rythme, tu commences toi aussi à te fouetter pour avancer et ne pas lâcher l’affaire.</p>
+
+
+
+<p>Pour se distraire un peu, on a continué l’entraînement à vélo (cf post précédent &#8211; record descendu maintenant à 50 minutes !), on est allés chercher des «&nbsp;responchous&nbsp;» (pour les étrangers, plante similaire à des asperges sauvages), on a fait des semis et puis surtout, avec l’ami Jim de Vancouver, on a préparé les fondations du nouveau site internet que l’on projette de sortir fin 2024 ou début 2025.</p>
+
+
+
+<p>C’est un gros chantier, vu le nombre de galeries, de photos et de textes déjà en ligne, alors il vaut mieux partir dans la bonne direction dès le début ! Ensuite, suivre les panneaux peut aider pour ne pas trop s’égarer dans la pampa numérique.</p>
+
+
+
+<p>Bien que dernièrement nous n’ayons pas pu faire notre petite veille informationnelle habituelle, faute de temps, voici quelques liens pour terminer.</p>
+
+
+
+<p>Musicaux d’abord, avec des Irlandais contemporains que l’on a découverts récemment en préparant notre voyage pour le Royaume-Uni et l’Irlande (<a href="https://www.youtube.com/watch?v=qhqpQiXnFx0&amp;list=OLAK5uy_maVx62pF5g1VijZxO0F58fhax8iMYNmSM" target="_blank" rel="noreferrer noopener">là</a> <a href="https://www.youtube.com/watch?v=kCLFShptAIA" target="_blank" rel="noreferrer noopener">là</a> <a href="https://www.youtube.com/watch?v=AaZBMHsYEmg" target="_blank" rel="noreferrer noopener">là</a> !).</p>
+
+
+
+<p>Puis dans le champs des idées, avec <a href="https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/heinz-wisman-une-education-europeenne-4482868" target="_blank" rel="noreferrer noopener">Heinz Wisman</a> (philosophe) et <a href="https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/economie-la-croissance-est-morte-vive-la-prosperite-5478335" target="_blank" rel="noreferrer noopener">Tim Jackson</a> (économiste).</p>
+
+
+
+<p>Et enfin <a href="https://www.france.tv/france-5/c-ce-soir/saison-4/5787462-dette-deficit-l-ecologie-grande-sacrifiee.html" target="_blank" rel="noreferrer noopener">un débat</a> sur « le mur de la dette » et « la transition écologique ».</p>
+
+
+
+<p>Bonne quinzaine à vous !</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Travaux en cours #5</title>
+		<link>https://james60485.github.io/blog_id-75/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:10:15 +0000</pubDate>
+				<category><![CDATA[Espagne]]></category>
+		<category><![CDATA[Climat]]></category>
+		<category><![CDATA[Sécheresse]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4795</guid>
+
+					<description><![CDATA[Barrage de Sau sur le fleuve Ter. Vilanova de Sau. Catalogne. Espagne &#8211; Septembre 2023. Bonjour, C’est assez rare pour être signalé : nous avions programmé début janvier qu’à la mi-mars, tous les diptyques de la dernière campagne photographique dans la péninsule ibérique devaient être choisis et montés. Aujourd’hui le 14, nous pouvons dire comme ... <a title="Travaux en cours #5" class="read-more" href="https://james60485.github.io/blog_id-75/" aria-label="Read more about Travaux en cours #5">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Barrage de Sau sur le fleuve Ter. Vilanova de Sau. Catalogne. Espagne &#8211; Septembre 2023.</em></p>
+
+
+
+<p>Bonjour,</p>
+
+
+
+<p>C’est assez rare pour être signalé : nous avions programmé début janvier qu’à la mi-mars, tous les diptyques de la dernière campagne photographique dans la péninsule ibérique devaient être choisis et montés. Aujourd’hui le 14, nous pouvons dire comme nombre de nos contemporains : «&nbsp;Ça, c’est fait !&nbsp;».</p>
+
+
+
+<p>Dès demain, nous allons accélérer le train de la rédaction des légendes pour pouvoir partir autour du 15 mai pour le Royaume-Uni. Nous aurons ainsi « liquidé » tous les dossiers de la première étape du tour d’Europe que l’on envisage.</p>
+
+
+
+<p>Au final, ce sera environ 700 images qu’il faudra ajouter au nouveau site le moment venu. Nouveau site !? Ah oui, depuis notre retour, avec Jim et Elwynn (un nouvel acolyte) nous réfléchissons à rendre le site actuel plus simple d’usage pour nous. Par exemple, lorsqu’il s’agit d’alimenter ce blog ou mettre en ligne de nouvelles galeries de photos. C’est un gros chantier qui occupe bien nos esprits.</p>
+
+
+
+<p>Il est vrai que ces derniers temps, on s’est beaucoup réfugiés dans le travail car on a trop de retard. On pense aux milliers de photos du tour de France toujours en attente sur notre bureau. Il y a aussi les projets de tour d’Europe et de tour du monde qu’on rêve de faire ! Mais, il faut être honnête, c’est également pour se protéger de l’air ambiant qui n’incite pas vraiment à l’insouciance et au «&nbsp;carpe diem&nbsp;» tant vanté partout.</p>
+
+
+
+<p>Les nouvelles qui arrivent de Gaza, d’Ukraine, de Russie, des États-Unis, de Haïti, etc. ont de quoi plonger n’importe quelle majorette du monde en catatonie si jamais elle y prêtait vraiment attention.</p>
+
+
+
+<p>On ne va pas aller plus avant sur ces terrains car ce n’est pas l’objet de ce blog qui concerne notre travail documentaire. Mais quand même ! Tous ces « dossiers » ont-ils été « gérés » dans la durée avec tout le sérieux et l’implication qu’ils auraient dû nécessiter par nos dirigeants respectifs et la communauté internationale, ou du moins ce qu’il en reste ? Dans une moindre mesure, nous-mêmes, société civile, avons-nous manifesté assez de pression pour qu’il en soit ainsi ?</p>
+
+
+
+<p>Lors des vœux du nouvel an, nous avons été en contact avec des amis environnementalistes qui avaient, pour la plupart d’entre eux, le moral dans les chaussettes. La cause du climat et de la biodiversité, qui devrait être le dossier mis en haut de la pile, risque de passer au second plan du fait de toutes ces tragédies, au moment même où nous devrions être pressés d’agir fortement comme ne cesse de nous le marteler les scientifiques.</p>
+
+
+
+<p>À cela s’ajoute, pour la France, la faiblesse structurelle de son économie qui pourrait, selon les choix faits, limiter énormément nos possibilités d’adaptations aux changements climatiques. <a href="https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/rapport-annuel-de-la-cour-des-comptes-comment-adapter-les-finances-publiques-au-changement-climatique-1522539" target="_blank" rel="noreferrer noopener">Ici</a> une émission radio sur le nouveau rapport public annuel de la cour des comptes sur le sujet.</p>
+
+
+
+<p>Dernièrement, nous avons lu dans <a href="https://www.lemonde.fr/planete/article/2024/03/11/climat-l-europe-doit-agir-beaucoup-plus-vite-pour-eviter-des-situations-catastrophiques-selon-l-aee_6221229_3244.html" target="_blank" rel="noreferrer noopener">une étude</a> qui vient de sortir que «&nbsp;L’Europe est le continent qui se réchauffe le plus rapidement&nbsp;». Le diptyque qui illustre le post a été réalisé au barrage espagnol de Sau. La couleur verte témoigne de <a href="https://fr.wikipedia.org/wiki/Eutrophisation" target="_blank" rel="noreferrer noopener">l&rsquo;eutrophisation</a> de l&rsquo;eau.</p>
+
+
+
+<p>Cette retenue d’eau est très souvent médiatisée car le village de Sant Romà de Sau, qui a été englouti lors de la construction du barrage en 1962, possédait <a href="https://watchers.news/2024/03/14/historic-drought-drains-crucial-sau-reservoir-to-a-trickle-spain/" target="_blank" rel="noreferrer noopener">une église</a> qui apparaît et disparaît selon le niveau d’eau. Celle-ci est devenue un des symboles de la sécheresse que connaît l’Espagne depuis 3 ans maintenant.</p>
+
+
+
+<p>Dans un média, il est raconté qu’à Barcelone des catholiques ont organisé il y a peu <a href="https://information.tv5monde.com/societe/barcelone-des-prieres-pour-la-pluie-sous-la-pluie-2713378" target="_blank" rel="noreferrer noopener">une procession</a> pour implorer la venue de la pluie. Et son cheminement dans la cité a dû être parfois interrompu, du fait d’averses !</p>
+
+
+
+<p>Blague à part si on peut dire, après un mois de janvier particulièrement chaud, les autorités catalanes ont dû décréter <a href="https://www.liberation.fr/international/europe/la-catalogne-declare-letat-durgence-secheresse-a-barcelone-20240201_2FHJ34XH2FH5JNJWKGBW57X6M4/" target="_blank" rel="noreferrer noopener">l’état d’urgence</a> sécheresse et renforcer les <a href="https://www.lemonde.fr/planete/article/2024/02/01/la-secheresse-persistante-contraint-la-catalogne-a-limiter-la-consommation-d-eau_6214291_3244.html" target="_blank" rel="noreferrer noopener">mesures de restriction</a> d’eau déjà en cours.</p>
+
+
+
+<p>Bon pour terminer sur un thème moins plombant, depuis un mois environ, on a repris nos valeureuses bicyclettes afin de retrouver la forme presque olympique que nous avions fin décembre à notre retour de voyage.</p>
+
+
+
+<p>Dans sa jeunesse, Toto croit se rappeler avoir lu, dans le magazine <em>Tennis de France</em> auquel il était abonné, que Connors et Lendl (cela ne nous rajeunit pas !) avaient des méthodes assez particulières d’entraînement. Jimmy racontait que faire 5 minutes de saut à la corde par jour lui suffisait pour rester au top niveau, et pour Ivan, c’était une heure de vélo à fond la caisse autour de chez lui.</p>
+
+
+
+<p>Même s’il y avait peut-être de l’exagération des deux côtés, c’était une tout autre époque où la performance physique des champions n’était pas aussi poussée qu’aujourd’hui.</p>
+
+
+
+<p>Alors, une fois tous les 2 jours, nous nous sommes mis au régime Lendl. De chez nous, nous pouvons faire une boucle avec des descentes dans les bois, rouler sur un plateau qui offre une belle vue et grimper une côte costaude de presque 3 km. Quand nous sommes en mode sportif, nous réussissons à la faire en 54 minutes (record à battre !) et sinon en plus d’une heure en mode contemplatif.</p>
+
+
+
+<p>Quand il fera meilleur, on va essayer de passer à une fréquence quotidienne. Le vélo a ceci de bon qu’il fait autant de bien au corps qu’à l’âme. Repartir sur les routes au mois de mai avec la patate serait une bonne chose !</p>
+
+
+
+<p>Bonne quinzaine à vous,</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dufumier !</title>
+		<link>https://james60485.github.io/blog_id-74/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Sat, 02 Mar 2024 17:55:22 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Agriculture]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4792</guid>
+
+					<description><![CDATA[Cloche et banderole brandies lors de la manifestation de millier d’agriculteurs européens devant les locaux de la Commission européenne à Bruxelles en 2015. Bruxelles. Belgique &#8211; 7 Septembre 2015. Ici se sont joints à la mobilisation des agriculteurs de la Coordination rurale, syndicat agricole français qui sera très actif dans la révolte agricole que connaît ... <a title="Dufumier !" class="read-more" href="https://james60485.github.io/blog_id-74/" aria-label="Read more about Dufumier !">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Cloche et banderole brandies lors de la manifestation de millier d’agriculteurs européens devant les locaux de la Commission européenne à Bruxelles en 2015. Bruxelles. Belgique &#8211; 7 Septembre 2015.</em></p>
+
+
+
+<p><em>Ici se sont joints à la mobilisation des agriculteurs de la Coordination rurale, syndicat agricole français qui sera très actif dans la révolte agricole que connaît la France en ce début d’année 2024.</em></p>
+
+
+
+<p><em><a href="https://www.lepoint.fr/monde/les-agriculteurs-europeens-font-entendre-leur-colere-a-bruxelles-07-09-2015-1962671_24.php" target="_blank" rel="noreferrer noopener">Voici</a> un article de presse à propos de cette manifestation à Bruxelles où les agriculteurs s’était rendus en nombre pour faire entendre leur colère, déjà.</em></p>
+
+
+
+<p>Bonjour,</p>
+
+
+
+<p>On imagine que nul n’ignore la « révolte » agricole que connaît l’Europe et la France actuellement. Beaucoup de temps médiatique (combien de bennes de fumier déversé auront été filmées ?) et politique y a été consacré (alors que, soit dit en passant, la crise sévère que connaît le secteur depuis des années passe généralement bien en dessous des radars).</p>
+
+
+
+<p>En urgence, le gouvernement a apporté <a href="https://reporterre.net/Arret-d-Ecophyto-aides-les-mesures-du-gouvernement-pour-apaiser-les-agriculteurs" target="_blank" rel="noreferrer noopener">des réponses</a> qui n’ont pas ramené le calme (<a href="https://www.ladepeche.fr/2024/02/26/colere-des-agriculteurs-cetait-le-bordel-emmanuel-macron-revient-sur-sa-journee-marathon-de-13h-au-salon-de-lagriculture-11788773.php" target="_blank" rel="noreferrer noopener">c’est le moins qu’on puisse dire</a>) dans le monde agricole avant l’ouverture du Salon International de l’Agriculture (SIA), à Paris Expo Porte de Versailles. Elles n’ont pas vraiment convaincu et soulèvent même beaucoup d’inquiétudes, notamment environnementales, comme vous pouvez le lire <a href="https://www.lemonde.fr/planete/article/2024/02/03/si-rearmement-agricole-il-y-a-c-est-surtout-d-un-rearmement-chimique-de-l-agriculture-qu-il-est-question_6214548_3244.html" target="_blank" rel="noreferrer noopener">ici</a> et <a href="https://reporterre.net/Pesticides-Le-prochain-indicateur-d-Ecophyto-va-endormir-les-gens" target="_blank" rel="noreferrer noopener">là</a> par exemple.</p>
+
+
+
+<p>Dans cette ambiance sombre et très tendue, avec Marine Le Pen et Jordan Bardella du RN qui se tiennent plus qu&rsquo;en embuscade <a href="https://www.ladepeche.fr/2024/03/02/les-masques-tombent-le-rassemblement-national-et-des-syndicats-agricoles-saffichent-ensemble-sur-un-marche-du-tarn-et-garonne-11800013.php" target="_blank" rel="noreferrer noopener">semble-t-il</a>, c’est avec plaisir que nous avons revu dernièrement, dans <a href="https://www.france.tv/france-5/c-politique/saison-15/5710632-agriculture-a-qui-profite-la-colere.html" target="_blank" rel="noreferrer noopener">une émission TV</a> de grande écoute, <a href="https://fr.wikipedia.org/wiki/Marc_Dufumier" target="_blank" rel="noreferrer noopener">Marc Dufumier</a> (agronome et enseignant-chercheur spécialiste des systèmes agraires et de leur évolution).</p>
+
+
+
+<p>Nous l’avions rencontré en 2011 à Labège, près de Toulouse. Après avoir <a href="https://www.h-t-chassaing.com/HTC_GR_77-intro-fr.html" target="_blank" rel="noreferrer noopener">documenté durant une année entière</a> le travail dans une petite exploitation laitière familiale, et être allés pour la première fois au Salon de l’Agriculture (où plusieurs centaines de producteurs laitiers européens s’étaient rassemblés pour une « Marche funèbre&nbsp;» à l’appel de l’APLI et de l’EMB) avec un éleveur de notre région (voir <a href="https://www.h-t-chassaing.com/HTC_GR_81-intro-fr.html" target="_blank" rel="noreferrer noopener">le sujet</a> sur notre site), nous nous préparions, à l’époque, à réaliser un tour de France à vélo avec en tête l’idée de faire des reportages, principalement sur l’énergie et l’agriculture.</p>
+
+
+
+<p>Alors bien entendu, quand nous avions appris qu’<a href="https://www.ladepeche.fr/article/2011/05/08/1076744-l-agriculture-bio-a-deplace-1400-personnes.html" target="_blank" rel="noreferrer noopener">une conférence</a> était organisée à Labège avec Pierre Rabhi, Lydia et Claude Bourguignon, Guy Kastler et Marc Dufumier, nous n’avions pas hésité longtemps avant de nous y rendre pour assouvir notre curiosité.</p>
+
+
+
+<p>Sûrement, comme les 1 400 autres personnes qui s’y étaient rendues (les organisateurs s’attendaient à 500 personnes environ !), les talents de conteur de Rabhi (qui avait pris la parole en premier) nous avait cueillis, puis nous avions été très intéressés par les interventions des autres orateurs.</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=z79h5_x4Gk8" target="_blank" rel="noreferrer noopener">Ici</a> une conférence assez récente de Marc Dufumier sur l’agro-écologie scientifique et <a href="https://www.youtube.com/watch?v=Ieff1qpj8wU" target="_blank" rel="noreferrer noopener">là</a> une autre intervention de lui, toujours récente mais plus courte.</p>
+
+
+
+<p>En 2016, toto était revenu au Salon de l’Agriculture et il avait été stupéfait d’avoir à photographier le stand du Ministère de l’Agriculture (qui promouvait l’agro-écologie et l’agro-foresterie) sous haute surveillance ; <a href="https://www.lemonde.fr/planete/article/2016/02/27/salon-de-l-agriculture-le-stand-du-ministere-demonte-par-des-manifestants_4872892_3244.html" target="_blank" rel="noreferrer noopener">il avait été détruit</a> le matin même de l’ouverture du Salon par des membres du syndicat de la FNSEA. Vers la fin de son mandat, le 13 février 2017, le Ministre de l’Agriculture Stéphane Le Foll revient <a href="https://www.terre-net.fr/2017/article/125646/cinq-ans-c-est-excessivement-long-reconnait-stephane-le-foll" target="_blank" rel="noreferrer noopener">sur son action</a> et sur ce moment particulier.</p>
+
+
+
+<p>Si nous relatons cet incident, c’est que nous sommes bien conscients que l’agro-écologie peut provoquer de fortes réactions chez certains ! Cependant c’est une vision à long terme de l’agriculture française et aussi mondiale qui est posée sur la table depuis des années alors qu’en ce moment, à la radio, TV et sur internet, on entend très souvent des personnes déplorer l’absence de plans pour l’agriculture.</p>
+
+
+
+<p>À notre humble avis, si c’est encore possible et audible de nos jours, cette proposition d’agro-écologie scientifique (qui dans la décennie précédente faisait se déplacer les foules pour assister aux conférences) mérite d’être prise en considération à nouveau. Elle pourrait être une des sources d’inspiration pour inventer un nouveau modèle plus viable pour les agriculteurs, plus soutenable pour l’environnement et plus adapté aux effets du changement climatique.</p>
+
+
+
+<p><a href="https://www.lemonde.fr/idees/article/2024/02/20/l-avenir-ne-sera-assure-qu-avec-une-agriculture-paysanne-relevant-de-l-agroecologie_6217532_3232.html" target="_blank" rel="noreferrer noopener">Ici</a> la dernière tribune de Marc Dufumier parue dans <em>Le Monde</em> pour être discutée et débattue sérieusement.</p>
+
+
+
+<p>Pour terminer, voici <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-agriculteurs-le-temps-des-revoltes" target="_blank" rel="noreferrer noopener">une série d’émission radio</a> qui fait le tour des révoltes agricoles européennes et une <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-histoire-de-l-agriculture-un-monde-en-revolutions" target="_blank" rel="noreferrer noopener">autre série</a> qui retrace une histoire de l’évolution de l’agriculture en Europe, de la Rome antique à nos jours !</p>
+
+
+
+<p>Une bonne quinzaine à vous !</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Greta à l&#8217;A69</title>
+		<link>https://james60485.github.io/blog_id-73/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Thu, 15 Feb 2024 17:47:03 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Climat]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4789</guid>
+
+					<description><![CDATA[Greta Thunberg, venue soutenir les oposants à l&#8217;A69, lors de l&#8217;interview par les médias des défenseurs du climat de la délégation internationale. Ça se passe juste après la conférence de presse dont ils étaient les derniers intervenants, après 5 habitants de la ZAD Crem&#8217;Arbres et le collectif La Voie est libre qui résistent contre ce ... <a title="Greta à l&#8217;A69" class="read-more" href="https://james60485.github.io/blog_id-73/" aria-label="Read more about Greta à l&#8217;A69">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Greta Thunberg, venue soutenir les oposants à l&rsquo;A69, lors de l&rsquo;interview par les médias des défenseurs du climat de la délégation internationale. Ça se passe juste après la conférence de presse dont ils étaient les derniers intervenants, après 5 habitants de la ZAD Crem&rsquo;Arbres et le collectif La Voie est libre qui résistent contre ce projet d&rsquo;autoroute entre Toulouse et Castres. Premier jour du week-end de mobilisation « La Cabanade contre l’A69 ». Saïx, Département du Tarn, Région Occitanie. France &#8211; 10 Février 2024.</em></p>
+
+
+
+<p>Bonjour,</p>
+
+
+
+<p>Cette quinzaine, il était prévu de vous parler dans ce blog de l’Espagne et du Chili. Mais une visite, samedi 10 février, a bouleversé nos plans. Nous ne pouvons ignorer la venue de Greta Thunberg, accompagnée d’une délégation internationale d’activistes climatiques, sur le chantier de la construction de l’autoroute A69 à Saïx, près de Castres, dans le Tarn.</p>
+
+
+
+<p>C’est vrai que, pour cette lutte, nous n’avons pas pu nous investir pour la documenter (faute de temps et de moyens) comme nous l’avions fait à Sivens (voir <a href="https://www.h-t-chassaing.com/HTC_MG_09-fr.html" target="_blank" rel="noreferrer noopener">ici</a> les reportages) il y a presque dix ans maintenant, toujours dans le Tarn. Tout juste avons nous documenté la manifestation qui avait réuni entre 4 500 et 8 000 opposants au projet de l&rsquo;autoroute Toulouse-Castres le 22 Avril 2023 (cf Post du 30 avril 2023 sur notre blog). Toutefois, bien sûr, nous suivons attentivement via la presse le développement de cette histoire.</p>
+
+
+
+<p>Donc samedi matin, Toto, dans la petite revue de presse qu’il fait généralement accompagné de son premier café, a appris que Greta était annoncée à Saïx ce jour même.</p>
+
+
+
+<p>Était-il possible de l’avoir photographiée à Katowice en 2018 (<a href="https://www.h-t-chassaing.com/HTC_MG_01-fr.html" target="_blank" rel="noreferrer noopener">COP 24</a>) alors qu’elle commençait à peine à être connue, puis à Madrid en 2019 (<a href="https://www.h-t-chassaing.com/HTC_MG_01-fr.html" target="_blank" rel="noreferrer noopener">COP 25</a>) alors qu’elle était devenue une icône mondiale, et enfin l’année suivante à Glasgow (<a href="https://www.h-t-chassaing.com/HTC_MG_01-fr.html" target="_blank" rel="noreferrer noopener">COP 26</a>) et de ne pas se rendre à une cinquantaine de kilomètres de notre camp de base ? À chaque fois, pour ce que nous avons vu, nous avons trouvé son comportement impeccable. À notre humble avis, quoi qu&rsquo;on en dise elle restera comme une personnalité marquante de ce nouveau millénaire dans les livres d’histoire.</p>
+
+
+
+<p>Mais comment faire ? Y aller à vélo risque de nous faire arriver trop tard. Après quelques coups de téléphone, la solution trouvée est la voiture des voisins (Merci à eux !). Alors, c&rsquo;est le branle-bas de combat. Même s&rsquo;il pleut des cordes, une poignée de céréales est ajoutée aux bols en plus des tartines, un demi pain est glissé dans le sac avec une bouteille d&rsquo;eau et nous voilà partis.</p>
+
+
+
+<p>C’est un peu avant midi que nous approchons du lieu. De loin déjà on sent l&rsquo;odeur des gaz lacrymogènes et la présence des gendarmes nous confirme que nous sommes bien sur le bon chemin.</p>
+
+
+
+<p>D&rsquo;après les nouvelles, la conférence de presse a été retardée à cause de barrages de gendarmes qui bloquaient les routes. Ces derniers surveillent la route et la voie ferrée dont la circulation entre Toulouse et Mazamet a été interrompue pour le week-end, durée de la mobilisation baptisée «&nbsp;La Cabanade contre l’A69&nbsp;» (construction de cabanes). Elle est interdite par la préfecture qui précise qu&rsquo;elle est autorisée sur un terrain privé avec l&rsquo;accord du propriétaire ; ce qui est le cas ici dans cette ferme.</p>
+
+
+
+<p>C&rsquo;est à midi et quart que nous atteignons le « hangar vert », sans gaz et protégeant de la pluie. Une bande rouge et blanche (rubalise) sépare les outils agricoles et le fourrage de la zone de réunion. Sur cette délimitation, un drapeau jaune de la Confédération paysanne et plus tard on aperçoit celui d&rsquo;Extinction Rebellion avec son sablier sur fond vert perché sur l&rsquo;épaule d&rsquo;une manifestante. Quelques personnes mordent dans leur sandwich ou mangent dans leur tupperware en écoutant la conférence de presse qui a commencé.</p>
+
+
+
+<p>Sur une remorque-estrade, 5 habitants de la ZAD aux visages masqués (pour raison de sécurité et pour éviter la personnalisation du mouvement qui se veut horizontal, expliquent-ils) donnent des nouvelles de la lutte et répondent aux questions. Ils sont encadrés de sculptures en papier mâché (c&rsquo;est la période de Carnaval) : un écureuil symbole de la lutte à gauche et de l&rsquo;effigie du président Emmanuel Macron à droite.</p>
+
+
+
+<p>Ils nous parlent des militant qui ont été arrêtés et qui sont sous contrôle judiciaire car les procès ont été reportés. Il n&rsquo;y a pas de procureur nommé à Castres ce qui empêche et ralentit les procédures. Avec leurs masques en carton (certains à l&rsquo;image d&rsquo;animaux), ils sont parfois presque inaudibles sauf celui qui glisse le micro dessous. L&rsquo;un nous fait rire car les trous pour les yeux sont mal positionnés et il n&rsquo;arrive pas à lire le texte sur son ordinateur qu&rsquo;il tient en l&rsquo;air à bout de bras.</p>
+
+
+
+<p>Les intervenant suivants sont ceux de « La Voie est libre » avec gilets verts imprimé d&rsquo;un poing levé. Nous apprenons que 4 recours n&rsquo;ont pas été jugés. Une nationale c&rsquo;est 8 000 voitures par jour, une autoroute 25 000. Ce n&rsquo;est pas un milliard que coûterait l&rsquo;aménagement de la voie ferrée, c&rsquo;est une dizaine de millions. Large de 6 mètres, on peut la doubler pour que les trains puissent se croiser.</p>
+
+
+
+<p>Puis c&rsquo;est le tour de la délégation internationale : un Espagnol au tee-shirt « futur végétal », une Belge qui nous raconte que dans son petit pays ils ont réussi à construire 150 000 km de routes, soit de quoi faire 4 fois le tour de la Terre, un Suédois, une Suédoise, Greta Thunberg qui reste silencieuse sur scène (dans son blouson rose et avec un keffieh palestinien autour du cou), sa seule présence étant un soutien de poids.</p>
+
+
+
+<p>Lorsqu&rsquo;ils descendent de scène, les caméras et micros se précipitent sur eux et les entourent alors que la fanfare se met à jouer. Un garçon d&rsquo;un dizaine d&rsquo;années grimpe sur les tables et se met à rapper au micro avec ce refrain : «&nbsp;Aaaaa 69, on n&rsquo;lâchera rien, on n&rsquo;en veut pas, c&rsquo;est pas du bluff.&nbsp;»</p>
+
+
+
+<p>Malgré un environnement bruyant, les interviews se terminent. Greta Thunberg dont la parole est guettée s&rsquo;est exprimée face aux caméras, <a href="https://www.letarnlibre.com/a69-tensions-sur-la-zad-et-visite-de-greta-thunberg/" target="_blank" rel="noreferrer noopener">qualifiant de «&nbsp;folie&nbsp;»</a> ce projet d&rsquo;autoroute.</p>
+
+
+
+<p>Pour illustrer ce post, nous avons choisi de présenter ce diptyque où Greta et la délégation internationale sont assaillis par les tv, radio, photographes (dont nous !) et curieux armés de smartphones. La photo de gauche, elle regarde la pancarte brandie par Jean-Baptiste Reddé dit <a href="https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie-le-portrait/20230217-jean-baptiste-redd%C3%A9-activiste-po%C3%A8te-et-manifestant-professionnel" target="_blank" rel="noreferrer noopener">Voltuan</a>, très souvent présent dans les luttes sociales et environnementales et maintes fois photographiée par le passé en France comme à l&rsquo;étranger. La photo de droite montre le caractéristique attroupement stressant autour de Greta ainsi que Voltuan de dos, en blanc, qui brandit sa pancarte au lettrage multicolore qui fait sa signature. Il a fait un jeu de mot avec Delga et dégâts. (Delga, le nom de la Présidente du conseil régional d’Occitanie qui soutient le projet d’autoroute) ; l’autre côté de son panneau était écrit : « Stop à L&rsquo;A69 ! ».</p>
+
+
+
+<p>Dehors, une grande tente blanche propose (contre un don à déposer dans une boîte en fer blanc) une assiette garnie : tartine d&rsquo;houmous, semoule, légumes et pois chiches. Dans la tente verte voisine, on lave soi-même son assiette vidée et sa cuillère. À l&rsquo;arrière de ces tentes, 5 toilettes sèches et plus loin dans le champ, une quarantaine de tentes de campeurs sont installées. Au bout du champ vers lequel tout le monde se dirige, on entend les cris et chants des manifestants et on aperçoit les silhouettes des gendarmes.</p>
+
+
+
+<p>En se rapprochant, on voit les cabanes perchées dans les arbres jouxtant la voie ferrée. La fanfare joue à deux reprises « <a href="https://www.youtube.com/watch?v=HPmw6OT7AHc" target="_blank" rel="noreferrer noopener">Les rois des platanes</a>« , l&#8217;emblématique chanson de cette lutte tandis que des personnes vêtues de noir et munies pour certaines de raquettes de tennis se tiennent à une dizaine de mètres des gendarmes positionnés près de la voie ferrée.</p>
+
+
+
+<p>Il y a un panneau planté indiquant qu’il est interdit de photographier : «&nbsp;On est un lieu de vie Merci de le respecter. Pas de photo » et un couple de retraités a dû effacer les photos ou la vidéo qu’il venait de prendre à la demande d’un jeune homme cagoulé. Alors nous n’insistons pas. Du fait de la venue de Greta, beaucoup de photographes, de vidéastes, d’équipes de télévisions (TF1, Quotidien…) ont fait le déplacement alors qu’allons nous ajouter de plus ? S’attacher à bien photographier la conférence de presse et les prises de parole ensuite, comme celle de <a href="https://www.ouest-france.fr/environnement/portrait-qui-est-thomas-brail-lhomme-perche-dans-un-arbre-a-paris-contre-lautoroute-a69-c83829c6-5844-11ee-95ef-d357d1e9f638" target="_blank" rel="noreferrer noopener">Thomas Brail</a> devant les caméras, suffira pour nos archives.</p>
+
+
+
+<p>De retour sous le « hangar vert », au pied de l&rsquo;estrade, on défait des palettes et on construit des structures de cabanes ou de barricades ? Sur la table du fond, on propose des crêpes contre des dons, à une autre table des productions artistiques, et bien sûr à l&rsquo;entrée se trouve l&rsquo;habituelle table des livres, revues, magazines, dossiers hors-série et prospectus (les uns expliquant la lutte actuelle, les autres différentes luttes et les prochains événements à venir).</p>
+
+
+
+<p>Un grand carton appuyé sur l&rsquo;estrade indique :<br>&#8211; Propose ton activité :<br>Je viens d&rsquo;arriver avec 30 planches et du câble<br>&#8211; Prioritaire<br>Construction de barricade à l&rsquo;entrée de la ZAD / faire une jolie vigi<br>&#8211; À 16h<br>Cuisine pour découverte de plantes comestibles avec Grenouille Volante (le didgiridoo annoncera le rassemblement pour cette animation)<br>&#8211; 15h :<br>Chantier de dépalettage<br>Atelier Théâtre d&rsquo;impro<br>Table ronde<br>Discussion sur le soin</p>
+
+
+
+<p>Nous quittons les lieux vers 16h (ce soir, comme le samedi précédent nous sommes invités à manger et nous avons prévu de préparer un dessert !). Sur le trajet, nous croisons une dizaine de personnes qui arrivent avec des paquets de planches dans les bras, sur l&rsquo;épaule, sur des diables. La «&nbsp;Cabanade&nbsp;» va encore se poursuivre demain.</p>
+
+
+
+<p>Le lendemain Greta et la délégation internationale sont attendues à Bordeaux pour participer à <a href="https://www.lemonde.fr/planete/article/2024/02/11/greta-thunberg-manifeste-a-bordeaux-contre-un-projet-de-forages-petroliers-pres-d-arcachon_6216007_3244.html" target="_blank" rel="noreferrer noopener">une manifestation</a> contre le projet de huit nouveaux forage de puits de pétrole dans la forêt de La Teste-de-Buch, près d’Arcachon en Gironde.</p>
+
+
+
+<p>Pour aller plus loin, quelques liens :</p>
+
+
+
+<p>&#8211; <a href="https://www.lvel.fr/photos" target="_blank" rel="noreferrer noopener">Le site</a> des opposants « La voie est libre » au projet d’autoroute Castres-Toulouse.</p>
+
+
+
+<p>&#8211; <a href="https://www.letarnlibre.com/a69-tensions-sur-la-zad-et-visite-de-greta-thunberg/" target="_blank" rel="noreferrer noopener">Ici</a> et <a href="https://www.lemonde.fr/planete/article/2024/02/10/greta-thunberg-dans-le-tarn-en-solidarite-avec-ceux-qui-resistent-au-projet-d-autoroute-entre-toulouse-et-castres_6215830_3245.html" target="_blank" rel="noreferrer noopener">là</a>, deux résumés de la journée.</p>
+
+
+
+<p>&#8211; La réaction de Christophe Ramond, Président du Conseil départemental du Tarn, dans <a href="https://www.sudradio.fr/emission/cest-a-la-une-1113" target="_blank" rel="noreferrer noopener">une interview</a> de Sud RADIO.</p>
+
+
+
+<p>&#8211; <a href="https://www.liberation.fr/checknews/a69-greta-thunberg-sest-elle-rendue-a-toulouse-en-avion-directement-de-washington-20240212_OBYS7XTNRJAO7GBLD2XXQR7P4I/" target="_blank" rel="noreferrer noopener">La polémique</a> lancée par un député sur le moyen de transport employé par Greta Thunberg pour venir à Toulouse.</p>
+
+
+
+<p>&#8211; Et la dernière <a href="https://reporterre.net/L-A69-le-scandale-sanitaire-de-demain" target="_blank" rel="noreferrer noopener">tribune</a> en date contre l’A69, signée par plus de 500 soignants.</p>
+
+
+
+<p>Bonne quinzaine à vous !</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Loi immigration</title>
+		<link>https://james60485.github.io/blog_id-72/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2024 21:54:16 +0000</pubDate>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Immigrants]]></category>
+		<category><![CDATA[Politique]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4785</guid>
+
+					<description><![CDATA[Manifestation et prise de parole lors d&#8217;une mobilisation nationale pour faire pression avant la décision du Conseil constitutionnel sur la loi immigration. « Une OQTF pour Darmanin ». Une OQTF (l&#8217;obligation de quitter le territoire français) est une mesure administrative délivrée par la préfecture et Gérald Darmanin est l&#8217;actuel ministre de l&#8217;intérieur qui a défendu ... <a title="Loi immigration" class="read-more" href="https://james60485.github.io/blog_id-72/" aria-label="Read more about Loi immigration">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Manifestation et prise de parole lors d&rsquo;une mobilisation nationale pour faire pression avant la décision du Conseil constitutionnel sur la loi immigration. « Une OQTF pour Darmanin ». Une OQTF (l&rsquo;obligation de quitter le territoire français) est une mesure administrative délivrée par la préfecture et Gérald Darmanin est l&rsquo;actuel ministre de l&rsquo;intérieur qui a défendu ce projet de loi. Devant la préfecture d&rsquo;Albi, Tarn. France &#8211; 21 Janvier 2024.</em></p>
+
+
+
+<p>Bonjour,</p>
+
+
+
+<p>À notre retour d’Espagne fin décembre, de passage à Toulouse nous avons eu le temps de saluer deux amis qui travaillent dans le centre-ville.</p>
+
+
+
+<p>L’un d’eux, copain d’adolescence, nous a apostrophés ainsi en nous retrouvant place Arnaud Bernard :</p>
+
+
+
+<p>&#8211; Vous êtes au courant que vous êtes revenus dans un autre pays que celui que vous avez laissé en partant ?</p>
+
+
+
+<p>&#8211; Euh, non, tu sais, cela fait presque deux semaines que l’on circule à l’ancienne, sans connexion internet.</p>
+
+
+
+<p>&#8211; Je suis bien content de vous revoir, en direct comme on dit, avec vos vélos et sacoches.</p>
+
+
+
+<p>En nous guidant vers un bar du quartier, il s’est empressé de nous faire le topo des derniers événements politiques relatifs à la loi immigration. Le vote de cette loi avec les voix du RN venait juste d’avoir lieu.</p>
+
+
+
+<p>Bienvenue en France ! Depuis quatre mois environ nous n’avions pratiquement pas eu de discussions politiques sur l’actualité et, pour être honnêtes, on ne peut pas dire que cela nous avait manqué.</p>
+
+
+
+<p>Les jours qui ont suivi, comme à chaque fois après un retour de voyage, on a pris le temps de regarder tout ce qui s’est passé en France, dans le monde, dans la vie culturelle. Donc la guerre en Ukraine, la guerre Israël-Hamas, la guerre économique mondiale, etc. et puis la loi immigration votée dans des conditions préoccupantes pour ne dire que cela.</p>
+
+
+
+<p>Le dimanche 21 janvier au matin, nous avons décidé de prendre une après-midi off dans notre travail de tri des photos de la péninsule ibérique. Nous tenons à aller documenter <a href="https://www.ladepeche.fr/2024/01/22/forte-opposition-a-la-loi-immigration-11711428.php" target="_blank" rel="noreferrer noopener">la manifestation</a> qui a lieu à Albi, lors d’une mobilisation nationale pour faire pression avant la décision du Conseil constitutionnel sur cette triste loi, le jeudi 25.</p>
+
+
+
+<p>Depuis des années maintenant (2012), nous avons entamé un travail sur le FN (devenu RN). Suivre cette manifestation est un continuum de ce sujet.</p>
+
+
+
+<p>Pour ceux qui comme nous auraient manqué des épisodes de cette histoire de loi immigration : <a href="https://www.lenouvelespritpublic.fr/podcasts/480" target="_blank" rel="noreferrer noopener">Ici</a> un résumé. <a href="https://www.nouvelobs.com/politique/20240125.OBS83717/loi-immigration-le-conseil-constitutionnel-censure-largement-le-texte-dont-le-durcissement-de-l-acces-aux-prestations-sociales.html" target="_blank" rel="noreferrer noopener">Là</a> la décision du Conseil constitutionnel et enfin <a href="https://www.france.tv/france-5/c-ce-soir/saison-4/5612607-loi-immigration-une-sage-decision.html" target="_blank" rel="noreferrer noopener">un débat TV</a> et <a href="https://www.youtube.com/watch?v=aqQMKG4_kGM" target="_blank" rel="noreferrer noopener">un débat radio</a> après le rendu de la décision.</p>
+
+
+
+<p>Enfin, sur un autre thème qui concerne notre travail, nous avons été attentifs aux interventions médiatiques de Jean-Baptiste Fressoz. Depuis des années nous suivons, entre autres chercheurs, cet historien des sciences, des techniques et de l’environnement qui vient de sortir un nouveau <a href="https://www.seuil.com/ouvrage/sans-transition-jean-baptiste-fressoz/9782021538557" target="_blank" rel="noreferrer noopener">livre</a>. <a href="https://www.youtube.com/watch?v=FV_nUNol81M" target="_blank" rel="noreferrer noopener">Voici</a> la dernière interview de lui que nous venons d’écouter et elle nous donne du grain à moudre.</p>
+
+
+
+<p>Bonne quinzaine à vous,</p>
+
+
+
+<p>Hélène et Thomas</p>
+
+
+
+<p>PS : Ce début janvier a aussi été marqué en France (comme dans beaucoup de pays en Europe) par la mobilisation des agriculteurs. Pour l&rsquo;instant, nous avons décidé de ne pas la documenter, faute de moyens et de temps pour faire un travail un tantinet sérieux. Nous en avons déjà photographiées à maintes reprise par le passé, en France et même une fois devant les locaux de la Commission européenne à Bruxelles en 2015 où des affrontements avaient eu lieu.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bureau et Jardin</title>
+		<link>https://james60485.github.io/blog_id-71/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 21:46:43 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4782</guid>
+
+					<description><![CDATA[Bonjour, Le retour à notre vie française s’est bien passé. Habituellement, c’est au moment où l’on retrouve nos pénates que nous tombons malades, mais ça n’a pas été le cas cette fois-ci. Dormir à nouveau au chaud dans un lit et surtout ne pas avoir à changer de lieu tous les jours fut bien agréable. ... <a title="Bureau et Jardin" class="read-more" href="https://james60485.github.io/blog_id-71/" aria-label="Read more about Bureau et Jardin">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Bonjour,</p>
+
+
+
+<p>Le retour à notre vie française s’est bien passé.</p>
+
+
+
+<p>Habituellement, c’est au moment où l’on retrouve nos pénates que nous tombons malades, mais ça n’a pas été le cas cette fois-ci. Dormir à nouveau au chaud dans un lit et surtout ne pas avoir à changer de lieu tous les jours fut bien agréable. Comme toujours, rallumer le poêle, mettre en marche la chaîne hi-fi et ressortir les instruments de cuisine est un grand plaisir.</p>
+
+
+
+<p>Billie, notre voisine féline, nous a fait la fête et depuis nous colle assurément. Au début, on ne pouvait pas sortir dehors sans l’avoir dans nos pattes ! Elle ne manquait pas de nous accompagner lorsque nous allions scier du bois ou chercher des légumes dans le jardin comme des choux (rouges ou verts), des poireaux, du céleri, des blettes, de l’oseille, du brocolis.</p>
+
+
+
+<p>Côté jardin encore, récemment nous avons planté la dizaine de boutures de cassissiers qu’un jardinier nous a offert. Et dans quelques semaines, nous sèmerons des graines que nous avons ramenées du Portugal.</p>
+
+
+
+<p>Bien entendu, on n’a pas trop traîné pour attaquer le tri des dernières photos. Le premier jour, on n’a pas fait plus d’une heure «&nbsp;d’éditing&nbsp;» avant que la concentration nous quitte et que nos yeux se mettent à clignoter.</p>
+
+
+
+<p>Maintenant c’est bon, on a retrouvé un bon rythme de croisière. En plus, on a même pu ouvrir les livres que l’on vous présente aujourd’hui pour illustrer ce post. Durant les quelques mois qui nous séparent d’un nouveau départ, normalement pour le Royaume-Uni, on s’est dit qu’on allait préparer le voyage en lisant.</p>
+
+
+
+<p>Si vous avez des idées pour augmenter la petite bibliographie, n’hésitez pas à nous faire part de vos suggestions !</p>
+
+
+
+<p>Bonne quinzaine à vous,</p>
+
+
+
+<p>Hélène et Thomas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vœux 2024 !</title>
+		<link>https://james60485.github.io/blog_id-70/</link>
+		
+		<dc:creator><![CDATA[htc]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2024 21:39:12 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://james60485.github.io/?p=4779</guid>
+
+					<description><![CDATA[Bonjour, Pour accompagner nos vœux cette année, nous avons choisi de laisser tranquille la Billie (Ze cat) et de vous présenter à la place notre « butin » d’Espagne et du Portugal. Ce sont les cadeaux que nos hôtes ont tenu à nous offrir, bien souvent le matin, juste avant que nous reprenions la route. Nous en ... <a title="Vœux 2024 !" class="read-more" href="https://james60485.github.io/blog_id-70/" aria-label="Read more about Vœux 2024 !">Lire la suite</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Bonjour,</p>
+
+
+
+<p>Pour accompagner nos vœux cette année, nous avons choisi de laisser tranquille la Billie (Ze cat) et de vous présenter à la place notre « butin » d’Espagne et du Portugal.</p>
+
+
+
+<p>Ce sont les cadeaux que nos hôtes ont tenu à nous offrir, bien souvent le matin, juste avant que nous reprenions la route. Nous en avons seulement refusé un : un almanach de pompiers des plus volumineux contenant probablement les photos de toutes celles et ceux ayant un jour appartenu à la brigade !</p>
+
+
+
+<p>Blague à part, encore une fois un grand Merci à toutes les personnes qui ont facilité notre périple dans la péninsule ibérique.</p>
+
+
+
+<p>Une belle et bonne année à tout le monde !</p>
+
+
+
+<p>Abrazos y Suerte,</p>
+
+
+
+<p>Hélène et Thomas</p>
 ]]></content:encoded>
 					
 		
