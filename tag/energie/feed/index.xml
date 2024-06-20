@@ -9,23 +9,23 @@
 
 <channel>
 	<title>Énergie &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/tag/energie/feed/?simply_static_page=16485" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/tag/energie/feed/?simply_static_page=17487" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
-	<lastBuildDate>Sat, 18 May 2024 21:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 May 2024 16:02:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Post(e) de Radio</title>
 		<link>https://james60485.github.io/blog_id-57/</link>
 		
 		<dc:creator><![CDATA[htc]]></dc:creator>
 		<pubDate>Tue, 15 Aug 2023 00:32:30 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
+				<category><![CDATA[France]]></category>
 		<category><![CDATA[Énergie]]></category>
 		<guid isPermaLink="false">http://htc-wp.ddev.site:8080/?p=36</guid>
 
