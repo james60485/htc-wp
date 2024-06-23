@@ -192,11 +192,11 @@ p {
 </figure>
 
 
-<script>// Depends on original size being selected
+<script>// Depends on full-size image being selected
 const image = document.getElementsByTagName("img");
 for (var i = 0; image[i]; i++) {
-	let width = image[i].getAttribute("width");
-	switch (width) {
+	let height = image[i].getAttribute("width");
+	switch (height) {
 		case "800":
 			image[i].style.width = "70%";
 			break;
