@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Non classé &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/category/non-classe/feed/?simply_static_page=19049" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/category/non-classe/feed/?simply_static_page=21047" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
 	<lastBuildDate>Tue, 21 May 2024 14:36:33 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Des vélos pour partir !</title>
 		<link>https://james60485.github.io/blog_id-79/</link>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Commentaires pour Hélène et Thomas Chassaing	</title>
-	<atom:link href="http://htc-wp.ddev.site/comments/feed/?simply_static_page=18806" rel="self" type="application/rss+xml" />
+	<atom:link href="http://htc-wp.ddev.site/comments/feed/?simply_static_page=20776" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
-	<lastBuildDate>Sun, 23 Jun 2024 15:10:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jun 2024 21:12:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 </channel>
 </rss>
