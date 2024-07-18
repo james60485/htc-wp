@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Espagne &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/category/espagne/feed/?simply_static_page=24053" rel="self" type="application/rss+xml" />
+	<atom:link href="https://james60485.github.io/category/espagne/feed/" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
 	<lastBuildDate>Mon, 20 May 2024 21:12:15 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Travaux en cours #5</title>
 		<link>https://james60485.github.io/blog_id-75/</link>
@@ -598,7 +598,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>À Bujaraloz, le verdict est tombé. Sur la bascule de l&rsquo;une des deux grandes « secadoras » voisines (séchoir à luzerne et autres pour produire des aliments pour animaux), nos deux vélos garés le temps d&rsquo;une question affichent 94 kilos. Apparemment, il y a eu une prise de poids depuis le départ. Peut-être en cause, le stock de nourriture plus important en vue du parcours dans le Désert de Los Monegros qui n&rsquo;était pas un vrai désert ! Hilarité de nos interlocuteurs.</li>
 
 

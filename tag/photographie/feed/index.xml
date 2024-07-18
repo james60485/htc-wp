@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Photographie &#8211; Hélène et Thomas Chassaing</title>
-	<atom:link href="http://htc-wp.ddev.site/tag/photographie/feed/?simply_static_page=24033" rel="self" type="application/rss+xml" />
+	<atom:link href="https://james60485.github.io/tag/photographie/feed/" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
 	<lastBuildDate>Thu, 23 May 2024 15:37:28 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Des photographes du Royaume-Uni</title>
 		<link>https://james60485.github.io/blog_id-77/</link>
