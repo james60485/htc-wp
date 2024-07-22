@@ -97,10 +97,11 @@ p {
 	--pswp-icon-color: #000;
 	--pswp-icon-color-secondary: none;
 }
+/* Raise images and arrows */
 .pswp img {
 	max-width: none;
 	position: absolute;
-	top: -70px;
+	top: -40px;
 }
 .pswp__button--arrow {
   position: absolute;
@@ -109,7 +110,7 @@ p {
   top: 43%;
   margin-top: -50px;
 }
-/* type must be overlay */
+/* Type must be set to overlay */
 .pswp__caption {
 	max-width: 1000px;
 	margin: auto;
@@ -121,7 +122,7 @@ p {
 	overflow-y: auto;
 }
 .pswp__dynamic-caption--overlay {
- background:rgba(255,255,255,.7);
+	background:rgba(255,255,255,.7);
 }</style>
 		</head>
 
@@ -234,35 +235,23 @@ for (var i = 0; image[i]; i++) {
 	let height = image[i].getAttribute("width");
 	switch (height) {
 		case "800":
-			image[i].style.cssText = "width:65%; position:relative; top:0; left:10%";
+			image[i].style.cssText = "width:60%";
 			break;
 		case "1132":
-			image[i].style.cssText = "width:85%; position:relative; top:20px";
+			image[i].style.cssText = "width:85%";
 			break;
 		case "1200":
-			image[i].style.cssText = "width:90%; position:relative; top:30px";
+			image[i].style.cssText = "width:90%";
 			break;
 		case "1700":
-			image[i].style.cssText = "width:100%; position:relative; top:55px";
+			image[i].style.cssText = "width:100%";
 			}
 }</script>
 
 
-<script>// Hide PS caption by mouse clicking image
-imageClickAction: (releasePoint, e) => {
-const caption = document.querySelector('.pswp__caption');
-const style = getComputedStyle(caption);
-const vis = style.display;
-if (vis == 'block') {caption.style.display = 'none';}
-else if (vis == 'none') {caption.style.display = 'block';}
-}
-// Hide PS caption by tapping on viewport
-tapAction: (releasePoint, e) => {
-const caption = document.querySelector('.pswp__caption');
-const style = getComputedStyle(caption);
-const vis = style.display;
-if (vis == 'block') {caption.style.display = 'none';}
-else if (vis == 'none') {caption.style.display = 'block';}
+<script>// Set page title as alt text
+for (var i = 0; image[i]; i++) {
+    image[i].setAttribute("alt",document.getElementsByTagName("title")[0].innerHTML);
 }</script>
 		</div>
 
