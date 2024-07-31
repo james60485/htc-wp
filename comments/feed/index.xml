@@ -11,11 +11,11 @@
 	<atom:link href="https://james60485.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://james60485.github.io/</link>
 	<description>Travaux documentaires sur l&#039;agriculture, l&#039;énergie, les COPs, les changements climatiques, les luttes sociales, entre autres.</description>
-	<lastBuildDate>Mon, 22 Jul 2024 20:29:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Jul 2024 00:23:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>
